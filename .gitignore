@@ -1,0 +1,8 @@
+cert.pem
+key.pem
+/semantle/__pycache__
+/semantle/GoogleNews-vectors-negative300.bin
+/semantle/words.txt
+/semantle/words_1.txt
+/connections/glove.6B
+/connections/glove_model2.txt

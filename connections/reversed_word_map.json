@@ -1,0 +1,6192 @@
+{
+    "WET WEATHER": [
+        "HAIL",
+        "RAIN",
+        "SLEET",
+        "SNOW"
+    ],
+    "USED TO BUILD A SNOWMAN": [
+        "SNOW",
+        "CARROT",
+        "COAL",
+        "STICKS"
+    ],
+    "NBA TEAMS": [
+        "BUCKS",
+        "HEAT",
+        "JAZZ",
+        "NETS"
+    ],
+    "ELEMENTS OF COOKING,  PER SAMIN NOSRAT": [
+        "HEAT",
+        "FAT",
+        "ACID",
+        "SALT"
+    ],
+    "MUSIC GENRES": [
+        "JAZZ",
+        "POP",
+        "PUNK",
+        "RAP",
+        "SOUL",
+        "BLUES",
+        "COUNTRY",
+        "FUNK"
+    ],
+    "KEYBOARD KEYS": [
+        "OPTION",
+        "RETURN",
+        "SHIFT",
+        "TAB"
+    ],
+    "INVESTMENTS": [
+        "OPTION",
+        "BOND",
+        "CD",
+        "STOCK"
+    ],
+    "WEB BROWSER-RELATED": [
+        "TAB",
+        "BOOKMARK",
+        "HISTORY",
+        "WINDOW"
+    ],
+    "THINGS TO PAY": [
+        "TAB",
+        "BILL",
+        "CHECK",
+        "INVOICE"
+    ],
+    "PALINDROMES": [
+        "KAYAK",
+        "LEVEL",
+        "MOM",
+        "RACE CAR",
+        "EVE",
+        "HANNAH",
+        "NATAN",
+        "OTTO"
+    ],
+    "TOOLS": [
+        "LEVEL",
+        "HAMMER",
+        "SAW",
+        "FILE"
+    ],
+    "UNCHANGING": [
+        "LEVEL",
+        "EVEN",
+        "STABLE",
+        "STEADY"
+    ],
+    "FOOTWEAR": [
+        "BOOT",
+        "LOAFER",
+        "PUMP",
+        "SNEAKER"
+    ],
+    "ORIGINAL MONOPOLY TOKENS": [
+        "BOOT",
+        "IRON",
+        "THIMBLE",
+        "TOP HAT"
+    ],
+    "COMFY SHOES": [
+        "LOAFER",
+        "CROC",
+        "MOCCASIN",
+        "SLIPPER"
+    ],
+    "SHOES": [
+        "PUMP",
+        "CLOG",
+        "SLIDE",
+        "WEDGE"
+    ],
+    "EXCITE, WITH “UP”": [
+        "PUMP",
+        "FIRE",
+        "AMP",
+        "HYPE"
+    ],
+    "UNITS OF LENGTH": [
+        "FOOT",
+        "FOOT",
+        "LEAGUE",
+        "MILE",
+        "MILE",
+        "YARD",
+        "YARD",
+        "INCH"
+    ],
+    "LOWEST POINT": [
+        "FOOT",
+        "BASE",
+        "BOTTOM",
+        "FOUNDATION"
+    ],
+    "MAGAZINES": [
+        "ESSENCE",
+        "PEOPLE",
+        "TIME",
+        "US",
+        "US",
+        "FORTUNE",
+        "ROLLING STONE",
+        "VOGUE",
+        "WIRED",
+        "W",
+        "O",
+        "OK"
+    ],
+    "INHERENT NATURE": [
+        "ESSENCE",
+        "SPIRIT",
+        "HEART",
+        "SOUL"
+    ],
+    "PASS THE ___": [
+        "TIME",
+        "BUCK",
+        "BAR",
+        "TORCH"
+    ],
+    "PRONOUNS": [
+        "US",
+        "THEM",
+        "ME",
+        "I",
+        "IT",
+        "THEY",
+        "WE",
+        "YOU"
+    ],
+    "LETTER HOMOPHONES": [
+        "ARE",
+        "QUEUE",
+        "SEA",
+        "WHY"
+    ],
+    "WORDS ABBREVIATED WITH LETTERS": [
+        "ARE",
+        "WHY",
+        "SEE",
+        "YOU"
+    ],
+    "MEMBERS OF A SEPTET": [
+        "SEA",
+        "SIN",
+        "SISTER",
+        "WONDER"
+    ],
+    "W + VOWEL PROGRESSION": [
+        "WHY",
+        "WEE",
+        "WAY",
+        "WHOA"
+    ],
+    "FACIAL FEATURES": [
+        "CHEEK",
+        "EYE",
+        "MOUTH",
+        "NOSE"
+    ],
+    "SHAMELESS BOLDNESS": [
+        "CHEEK",
+        "BRASS",
+        "GALL",
+        "NERVE"
+    ],
+    "NAKED ___": [
+        "EYE",
+        "GUN",
+        "MOLE RAT",
+        "TRUTH"
+    ],
+    "EGYPTIAN SYMBOLS": [
+        "EYE",
+        "ANKH",
+        "CROOK",
+        "SCARAB"
+    ],
+    "___ TOOTH": [
+        "EYE",
+        "BABY",
+        "SWEET",
+        "WISDOM"
+    ],
+    "PARTS OF A RIVER": [
+        "MOUTH",
+        "DELTA",
+        "BANK",
+        "BED"
+    ],
+    "THINGS THAT CAN RUN": [
+        "NOSE",
+        "CANDIDATE",
+        "FAUCET",
+        "MASCARA"
+    ],
+    "PARTS OF AN AIRPLANE": [
+        "NOSE",
+        "WING",
+        "CABIN",
+        "ENGINE"
+    ],
+    "SYNONYMS FOR EAT": [
+        "CHOW",
+        "GOBBLE",
+        "SCARF",
+        "WOLF"
+    ],
+    "NECKWEAR": [
+        "SCARF",
+        "ASCOT",
+        "BOLO",
+        "TIE"
+    ],
+    "EAT VORACIOUSLY": [
+        "SCARF",
+        "WOLF",
+        "GORGE",
+        "GULP"
+    ],
+    "FAIRY TALE FIGURES": [
+        "WOLF",
+        "GIANT",
+        "PRINCESS",
+        "WITCH"
+    ],
+    "NOCTURNAL ANIMALS": [
+        "WOLF",
+        "BAT",
+        "MOTH",
+        "OWL"
+    ],
+    "DOG BREEDS, INFORMALLY": [
+        "LAB",
+        "PEKE",
+        "PIT",
+        "POM"
+    ],
+    "HOMOPHONES": [
+        "PEKE",
+        "GNU",
+        "KNEW",
+        "NEW",
+        "NU",
+        "WII",
+        "U",
+        "WEE",
+        "WE",
+        "EWE",
+        "YEW",
+        "YOU",
+        "OUI",
+        "PEAK",
+        "PEEK",
+        "PIQUE",
+        "HOLEY",
+        "HOLI",
+        "HOLY",
+        "WHOLLY"
+    ],
+    "___-___": [
+        "POM",
+        "BOO",
+        "TOM",
+        "YO"
+    ],
+    "MEMBERS OF A TRIO": [
+        "AMIGO",
+        "KING",
+        "STOOGE",
+        "TENOR"
+    ],
+    "MATTRESS SIZES": [
+        "KING",
+        "FULL",
+        "QUEEN",
+        "TWIN"
+    ],
+    "ROYAL TITLES": [
+        "KING",
+        "BARON",
+        "EARL",
+        "PRINCE"
+    ],
+    "NBA PLAYERS": [
+        "KING",
+        "MAGIC",
+        "SUN",
+        "THUNDER"
+    ],
+    "RADIO HALL OF FAME MEMBERS": [
+        "KING",
+        "STERN",
+        "GLASS",
+        "GROSS"
+    ],
+    "SNEAKER BRANDS": [
+        "ADIDAS",
+        "NIKE",
+        "PUMA",
+        "PUMA",
+        "REEBOK",
+        "JORDAN",
+        "CONVERSE",
+        "VANS"
+    ],
+    "FIGURES IN GREEK MYTH": [
+        "NIKE",
+        "ATLAS",
+        "HERMES",
+        "PARIS"
+    ],
+    "MUSICALS BEGINNING WITH “C”": [
+        "CABARET",
+        "CAROUSEL",
+        "CATS",
+        "CHICAGO"
+    ],
+    "TONY WINNERS FOR BEST MUSICAL": [
+        "CABARET",
+        "CATS",
+        "COMPANY",
+        "ANNIE"
+    ],
+    "MOVIE TITLE CITIES": [
+        "CHICAGO",
+        "MUNICH",
+        "PHILADELPHIA",
+        "RIO"
+    ],
+    "CLEANING VERBS": [
+        "DUST",
+        "MOP",
+        "SWEEP",
+        "VACUUM"
+    ],
+    "___ JACKET": [
+        "DUST",
+        "LIFE",
+        "SPORTS",
+        "YELLOW"
+    ],
+    "THINGS THAT MAKE YOU SNEEZE": [
+        "DUST",
+        "PEPPER",
+        "POLLEN",
+        "SMOKE"
+    ],
+    "___ BUNNY": [
+        "DUST",
+        "HONEY",
+        "BAD",
+        "BUGS"
+    ],
+    "CLEANING SUPPLIES": [
+        "MOP",
+        "SPONGE",
+        "BROOM",
+        "RAG"
+    ],
+    "THINGS THAT SUCK": [
+        "VACUUM",
+        "STRAW",
+        "LEECH",
+        "VAMPIRE"
+    ],
+    "___ MAN SUPERHEROES": [
+        "BAT",
+        "IRON",
+        "SPIDER",
+        "SUPER"
+    ],
+    "HALLOWEEN DECORATIONS": [
+        "BAT",
+        "COBWEB",
+        "PUMPKIN",
+        "TOMBSTONE"
+    ],
+    "BASEBALL EQUIPMENT": [
+        "BAT",
+        "BALL",
+        "BASE",
+        "GLOVE"
+    ],
+    "METAL ELEMENTS": [
+        "IRON",
+        "SILVER",
+        "NICKEL",
+        "LEAD",
+        "TIN",
+        "ZINC",
+        "COPPER",
+        "GOLD"
+    ],
+    "GOLF CLUBS": [
+        "IRON",
+        "WEDGE",
+        "PUTTER",
+        "WOOD"
+    ],
+    "SEEN IN A LAUNDRY ROOM": [
+        "IRON",
+        "HAMPER",
+        "DRYER",
+        "WASHER"
+    ],
+    "ARACHNIDS": [
+        "SPIDER",
+        "MITE",
+        "SCORPION",
+        "TICK"
+    ],
+    "EXTREMELY": [
+        "SUPER",
+        "AWFUL",
+        "QUITE",
+        "VERY"
+    ],
+    "THEY HAVE KEYS": [
+        "SUPER",
+        "PIANO",
+        "COMPUTER",
+        "TESTS"
+    ],
+    "STREAMING SERVICES": [
+        "HULU",
+        "NETFLIX",
+        "PEACOCK",
+        "PRIME"
+    ],
+    "SHOW OFF": [
+        "PEACOCK",
+        "GRANDSTAND",
+        "POSTURE",
+        "STRUT"
+    ],
+    "FOREMOST": [
+        "PRIME",
+        "PRIME",
+        "HEAD",
+        "LEAD",
+        "TOP",
+        "MAIN",
+        "PARAMOUNT",
+        "SUPREME"
+    ],
+    "EXCELLENT": [
+        "PRIME",
+        "STERLING",
+        "FINE",
+        "QUALITY"
+    ],
+    "KINDS OF NUMBERS": [
+        "PRIME",
+        "PERFECT",
+        "ODD",
+        "WHOLE"
+    ],
+    "CONDIMENTS": [
+        "KETCHUP",
+        "MAYO",
+        "RELISH",
+        "TARTAR"
+    ],
+    "SYNONYMS FOR SAD": [
+        "BLUE",
+        "DOWN",
+        "GLUM",
+        "LOW"
+    ],
+    "___ MOON": [
+        "BLUE",
+        "NEW",
+        "HARVEST",
+        "SAILOR"
+    ],
+    "INDECENT": [
+        "BLUE",
+        "BAWDY",
+        "COARSE",
+        "RISQUE"
+    ],
+    "___BERRY [note no space]": [
+        "BLUE",
+        "STRAW",
+        "GOOSE",
+        "RASP"
+    ],
+    "COLORS IN BRAZIL’S FLAG": [
+        "BLUE",
+        "GREEN",
+        "YELLOW",
+        "WHITE"
+    ],
+    "CHEESES, FAMILIARLY": [
+        "BLUE",
+        "JACK",
+        "AMERICAN",
+        "SWISS"
+    ],
+    "ANIMAL COVERINGS": [
+        "DOWN",
+        "SCALES",
+        "SHELL",
+        "FUR"
+    ],
+    "DOG COMMANDS": [
+        "DOWN",
+        "COME",
+        "SIT",
+        "STAY"
+    ],
+    "WILLING TO PARTICIPATE": [
+        "DOWN",
+        "IN",
+        "GAME",
+        "ON BOARD"
+    ],
+    "INSUFFICIENT": [
+        "LOW",
+        "SHORT",
+        "SHY",
+        "WANTING"
+    ],
+    "CLUE CHARACTERS": [
+        "GREEN",
+        "MUSTARD",
+        "PLUM",
+        "SCARLET"
+    ],
+    "GOLF COURSE PARTS": [
+        "GREEN",
+        "BUNKER",
+        "FAIRWAY",
+        "ROUGH"
+    ],
+    "KINDS OF SALADS": [
+        "GREEN",
+        "WEDGE",
+        "CAESAR",
+        "GREEK"
+    ],
+    "PEA ___": [
+        "GREEN",
+        "POD",
+        "COAT",
+        "SOUP"
+    ],
+    "SAUCES IN CHINESE CUISINE": [
+        "PLUM",
+        "OYSTER",
+        "SOY",
+        "XO"
+    ],
+    "___ LETTER": [
+        "SCARLET",
+        "LOVE",
+        "CHAIN",
+        "COVER"
+    ],
+    "MONOPOLY SQUARES": [
+        "BOARDWALK",
+        "CHANCE",
+        "GO",
+        "JAIL"
+    ],
+    "FAT ___": [
+        "CHANCE",
+        "CAT",
+        "LIP",
+        "TUESDAY"
+    ],
+    "BOARD GAMES": [
+        "GO",
+        "BACKGAMMON",
+        "CHECKERS",
+        "CHESS",
+        "CLUE",
+        "RISK",
+        "RISK",
+        "SORRY",
+        "SORRY",
+        "TROUBLE",
+        "TROUBLE",
+        "TABOO"
+    ],
+    "DANCES WHEN DOUBLED": [
+        "GO",
+        "CAN",
+        "CHA",
+        "NAE"
+    ],
+    "“SKEDADDLE!”": [
+        "GO",
+        "GET OUT",
+        "LEAVE",
+        "SCRAM"
+    ],
+    "___ FIGURE": [
+        "GO",
+        "ACTION",
+        "BALLPARK",
+        "STICK"
+    ],
+    "SHADES OF BLUE": [
+        "BABY",
+        "MIDNIGHT",
+        "POWDER",
+        "ROYAL"
+    ],
+    "SPICE GIRLS": [
+        "BABY",
+        "GINGER",
+        "POSH",
+        "SCARY"
+    ],
+    "LIL ___ RAPPERS": [
+        "BABY",
+        "JON",
+        "KIM",
+        "WAYNE"
+    ],
+    "THINGS THAT ARE DELIVERED": [
+        "BABY",
+        "SPEECH",
+        "BLOW",
+        "PACKAGE"
+    ],
+    "DARLING": [
+        "BABY",
+        "BOO",
+        "LOVE",
+        "DEAR"
+    ],
+    "MODIFIERS MEANING “SMALL”": [
+        "BABY",
+        "POCKET",
+        "MINI",
+        "TOY"
+    ],
+    "RAPPERS": [
+        "COMMON",
+        "FUTURE",
+        "ICE CUBE",
+        "Q-TIP"
+    ],
+    "GRAMMAR TENSE TERMS": [
+        "FUTURE",
+        "PRESENT",
+        "PAST",
+        "PERFECT"
+    ],
+    "TRIG FUNCTIONS": [
+        "SIN",
+        "COT",
+        "SEC",
+        "TAN"
+    ],
+    "SMALL ___": [
+        "WONDER",
+        "FRY",
+        "TALK",
+        "WORLD"
+    ],
+    "LEG PARTS": [
+        "ANKLE",
+        "KNEE",
+        "SHIN",
+        "THIGH"
+    ],
+    "JOINTS": [
+        "KNEE",
+        "HIP",
+        "SHOULDER",
+        "WRIST"
+    ],
+    "BABY ANIMALS": [
+        "CALF",
+        "CUB",
+        "JOEY",
+        "KID"
+    ],
+    "COUNTRIES WHEN “A” IS ADDED": [
+        "CUB",
+        "CHIN",
+        "MALT",
+        "TONG"
+    ],
+    "M.L.B. TEAM MEMBER": [
+        "CUB",
+        "ANGEL",
+        "MET",
+        "RED"
+    ],
+    "PLAYFULLY BOTHER": [
+        "KID",
+        "JOSH",
+        "RIB",
+        "TEASE"
+    ],
+    "SLANG FOR TOILET": [
+        "CAN",
+        "HEAD",
+        "JOHN",
+        "THRONE"
+    ],
+    "CONDITIONAL WORDS": [
+        "CAN",
+        "MAY",
+        "COULD",
+        "MIGHT"
+    ],
+    "ZODIAC SIGN BEGINNINGS": [
+        "CAN",
+        "GEM",
+        "LIB",
+        "TAU"
+    ],
+    "FINE BUBBLES": [
+        "HEAD",
+        "FOAM",
+        "FROTH",
+        "LATHER"
+    ],
+    "UNITS OF VEGETABLES": [
+        "HEAD",
+        "STALK",
+        "BULB",
+        "EAR"
+    ],
+    "___ FISH THAT AREN’T FISH": [
+        "CRAY",
+        "JELLY",
+        "SILVER",
+        "STAR"
+    ],
+    "ROYAL ___": [
+        "JELLY",
+        "FAMILY",
+        "WE",
+        "FLUSH"
+    ],
+    "FICTIONAL PIRATES": [
+        "SILVER",
+        "HOOK",
+        "JONES",
+        "SPARROW"
+    ],
+    "___BOARD": [
+        "STAR",
+        "DASH",
+        "HOVER",
+        "KEY"
+    ],
+    "ROCK ___": [
+        "STAR",
+        "BOTTOM",
+        "CANDY",
+        "GARDEN"
+    ],
+    "POWER-UPS IN SUPER MARIO WORLD": [
+        "STAR",
+        "MUSHROOM",
+        "FEATHER",
+        "FLOWER"
+    ],
+    "FAST FOOD CHAINS": [
+        "CHECKERS",
+        "SONIC",
+        "OUTBACK",
+        "SUBWAY"
+    ],
+    "CHESS TERMS": [
+        "QUEEN",
+        "MATE",
+        "BISHOP",
+        "GAMBIT"
+    ],
+    "FEATURED IN “SNOW WHITE”": [
+        "QUEEN",
+        "MIRROR",
+        "BASHFUL",
+        "APPLE"
+    ],
+    "ROCK & ROLL HALL OF FAME INDUCTEES": [
+        "QUEEN",
+        "PRINCE",
+        "HEART",
+        "MADONNA"
+    ],
+    "THINGS THAT ARE RED": [
+        "CHERRY",
+        "FIRE TRUCK",
+        "RUBY",
+        "STOP SIGN",
+        "BEET",
+        "POPPY",
+        "BRICK",
+        "CARDINAL"
+    ],
+    "SLOT MACHINE SYMBOLS": [
+        "CHERRY",
+        "7",
+        "BAR",
+        "BELL"
+    ],
+    "SUNDAE TOPPINGS": [
+        "CHERRY",
+        "FUDGE",
+        "NUTS",
+        "SPRINKLES"
+    ],
+    "PROGRAMMING LANGUAGES": [
+        "RUBY",
+        "JAVA",
+        "PYTHON",
+        "BASIC"
+    ],
+    "THINGS WITH KEYS": [
+        "CRYPTOGRAPHY",
+        "FLORIDA",
+        "LOCKSMITH",
+        "PIANO"
+    ],
+    "SPORTS": [
+        "CRICKET",
+        "FENCING",
+        "POLO",
+        "SQUASH"
+    ],
+    "“PINOCCHIO” FIGURES": [
+        "CRICKET",
+        "PUPPET",
+        "WHALE",
+        "WOODCARVER"
+    ],
+    "SHIRTS": [
+        "POLO",
+        "TANK",
+        "TEE",
+        "CROP"
+    ],
+    "TOPS": [
+        "CAMI",
+        "HALTER",
+        "TANK",
+        "TEE"
+    ],
+    "SCUBA GEAR": [
+        "TANK",
+        "FINS",
+        "MASK",
+        "SNORKEL"
+    ],
+    "PARTS OF A CAR, INFORMALLY": [
+        "TANK",
+        "DASH",
+        "WHEEL",
+        "SHOCK"
+    ],
+    "COMMON MERCH ITEMS": [
+        "TEE",
+        "PEN",
+        "MUG",
+        "TOTE"
+    ],
+    "SEEN ON A GOLF COURSE": [
+        "TEE",
+        "CLUB",
+        "HOLE",
+        "CART"
+    ],
+    "VEGETABLES": [
+        "BEET",
+        "CARROT",
+        "CORN",
+        "ONION"
+    ],
+    "___ CAKE": [
+        "CARROT",
+        "COFFEE",
+        "POUND",
+        "SPONGE"
+    ],
+    "THINGS THAT ARE ORANGE": [
+        "CARROT",
+        "PUMPKIN",
+        "BASKETBALL",
+        "GOLDFISH"
+    ],
+    "BABY ___": [
+        "CARROT",
+        "SHOWER",
+        "BOOM",
+        "TALK"
+    ],
+    "CROPS": [
+        "CORN",
+        "CUCUMBER",
+        "PEPPER",
+        "TOMATO"
+    ],
+    "___ SYRUP": [
+        "CORN",
+        "MAPLE",
+        "COUGH",
+        "SIMPLE"
+    ],
+    "KINDS OF COOKING OIL": [
+        "CORN",
+        "OLIVE",
+        "PEANUT",
+        "PALM"
+    ],
+    "BAGEL FLAVORS": [
+        "ONION",
+        "EVERYTHING",
+        "PLAIN",
+        "POPPY"
+    ],
+    "INSECTS": [
+        "ANT",
+        "BEETLE",
+        "MANTIS",
+        "TERMITE"
+    ],
+    "ADAMS": [
+        "ANT",
+        "DRIVER",
+        "SCOTT",
+        "WEST"
+    ],
+    "FRUIT": [
+        "DATE",
+        "KIWI",
+        "LEMON",
+        "ORANGE"
+    ],
+    "DOUBLE ___": [
+        "DATE",
+        "DUTCH",
+        "JEOPARDY",
+        "SPACE"
+    ],
+    "FLIGHTLESS BIRDS": [
+        "KIWI",
+        "EMU",
+        "OSTRICH",
+        "PENGUIN"
+    ],
+    "FAILURE": [
+        "LEMON",
+        "BOMB",
+        "DUD",
+        "FLOP"
+    ],
+    "SPHERICAL FOODS": [
+        "ORANGE",
+        "JAWBREAKER",
+        "MEATBALL",
+        "MOZZARELLA"
+    ],
+    "COUNTRIES": [
+        "CHAD",
+        "GEORGIA",
+        "JORDAN",
+        "TOGO"
+    ],
+    "N.B.A. GREATS": [
+        "JORDAN",
+        "BIRD",
+        "CURRY",
+        "JAMES"
+    ],
+    "BIRDS": [
+        "CRANE",
+        "JAY",
+        "JAY",
+        "SWALLOW",
+        "TURKEY",
+        "SWIFT",
+        "CARDINAL",
+        "LARK"
+    ],
+    "LETTER SPELLINGS": [
+        "JAY",
+        "BEE",
+        "EX",
+        "GEE"
+    ],
+    "THANKSGIVING FOOD": [
+        "TURKEY",
+        "PIE",
+        "GRAVY",
+        "STUFFING"
+    ],
+    "COUNTRIES WITH RED AND WHITE FLAGS": [
+        "TURKEY",
+        "POLAND",
+        "JAPAN",
+        "TUNISIA"
+    ],
+    "ZODIAC SYMBOLS": [
+        "FISH",
+        "GOAT",
+        "SCALES",
+        "SCALES",
+        "TWINS",
+        "TWINS",
+        "BULL",
+        "CRAB"
+    ],
+    "___ STICK": [
+        "FISH",
+        "HOCKEY",
+        "MEMORY",
+        "SELFIE"
+    ],
+    "VERTEBRATES": [
+        "FISH",
+        "BIRD",
+        "MAMMAL",
+        "REPTILE"
+    ],
+    "WAYS TO GATHER FOOD": [
+        "FISH",
+        "HUNT",
+        "FORAGE",
+        "TRAP"
+    ],
+    "SINGLE/PLURAL ANIMALS": [
+        "FISH",
+        "BUFFALO",
+        "DEER",
+        "MOOSE"
+    ],
+    "GO ___": [
+        "FISH",
+        "STEADY",
+        "BANANAS",
+        "FIGURE"
+    ],
+    "SCHOOL OF ___": [
+        "FISH",
+        "ROCK",
+        "HARD KNOCKS",
+        "THOUGHT"
+    ],
+    "BOVIDS": [
+        "GOAT",
+        "COW",
+        "BUFFALO",
+        "SHEEP"
+    ],
+    "SPICES BEGINNING WITH “C”": [
+        "CARDAMOM",
+        "CLOVE",
+        "CORIANDER",
+        "CUMIN"
+    ],
+    "TERMS OF ENDEARMENT": [
+        "BOO",
+        "HONEY",
+        "SUGAR",
+        "SWEETIE"
+    ],
+    "TAUNTS": [
+        "BOO",
+        "HISS",
+        "JEER",
+        "RASPBERRY"
+    ],
+    "BEE CREATIONS": [
+        "HONEY",
+        "COMB",
+        "WAX",
+        "HIVE"
+    ],
+    "KINDS OF BLOND": [
+        "HONEY",
+        "DIRTY",
+        "PLATINUM",
+        "STRAWBERRY"
+    ],
+    "CUBE-SHAPED": [
+        "SUGAR",
+        "BOUILLON",
+        "DIE",
+        "ICE"
+    ],
+    "THINGS WITH WINGS": [
+        "AIRPLANE",
+        "ANGEL",
+        "BIRD",
+        "PEGASUS"
+    ],
+    "MOVIES WITH “!”": [
+        "AIRPLANE",
+        "MOTHER",
+        "OKLAHOMA",
+        "THEM"
+    ],
+    "CLASSIC HALLOWEEN COSTUMES": [
+        "ANGEL",
+        "WITCH",
+        "CLOWN",
+        "PIRATE"
+    ],
+    "LADY ___": [
+        "BIRD",
+        "GAGA",
+        "LUCK",
+        "MACBETH"
+    ],
+    "THINGS THAT WHISTLE": [
+        "BIRD",
+        "TRAIN",
+        "REFEREE",
+        "KETTLE"
+    ],
+    "ANIMAL GROUP NAMES": [
+        "FLOCK",
+        "PACK",
+        "POD",
+        "SCHOOL",
+        "PRIDE",
+        "COLONY",
+        "HERD",
+        "SWARM"
+    ],
+    "FILL TO EXCESS": [
+        "PACK",
+        "JAM",
+        "CRAM",
+        "STUFF"
+    ],
+    "CRAM INTO A TIGHT SPACE": [
+        "PACK",
+        "JAM",
+        "STUFF",
+        "SQUEEZE"
+    ],
+    "WORDS WITH “i”": [
+        "POD",
+        "MAC",
+        "PAD",
+        "PHONE"
+    ],
+    "___CAST": [
+        "POD",
+        "BROAD",
+        "FORE",
+        "TYPE"
+    ],
+    "ANIMAL GROUPS": [
+        "SCHOOL",
+        "PRIDE",
+        "COLONY",
+        "HERD"
+    ],
+    "___ YEAR": [
+        "SCHOOL",
+        "LIGHT",
+        "LEAP",
+        "GAP"
+    ],
+    "DEADLY SINS": [
+        "ENVY",
+        "GREED",
+        "LUST",
+        "PRIDE"
+    ],
+    "WORDS THAT SOUND LIKE TWO LETTERS": [
+        "ENVY",
+        "CUTIE",
+        "EXCEL",
+        "SEEDY"
+    ],
+    "SLOW ANIMALS": [
+        "LORIS",
+        "SLOTH",
+        "SNAIL",
+        "TORTOISE"
+    ],
+    "AIRLINES": [
+        "FRONTIER",
+        "FRONTIER",
+        "SPIRIT",
+        "SPIRIT",
+        "UNITED",
+        "VIRGIN",
+        "ALASKA",
+        "SOUTHWEST"
+    ],
+    "APPARITIONS": [
+        "SPIRIT",
+        "GHOST",
+        "PHANTOM",
+        "SPECTER"
+    ],
+    "ENERGY": [
+        "SPIRIT",
+        "JUICE",
+        "STEAM",
+        "VIGOR"
+    ],
+    "RECORD LABELS": [
+        "VIRGIN",
+        "ISLAND",
+        "CAPITOL",
+        "COLUMBIA"
+    ],
+    "GREEK LETTERS": [
+        "BETA",
+        "CHI",
+        "DELTA",
+        "IOTA",
+        "NU",
+        "MU",
+        "PI",
+        "XI"
+    ],
+    "WHAT “I” MIGHT MEAN": [
+        "IOTA",
+        "ONE",
+        "IODINE",
+        "MYSELF"
+    ],
+    "SILENT “G”": [
+        "GNAT",
+        "GNAW",
+        "GNOCCHI",
+        "GNOME"
+    ],
+    "WINGED INSECTS": [
+        "GNAT",
+        "FLY",
+        "MOTH",
+        "WASP"
+    ],
+    "CREATURES IN FOLKLORE": [
+        "GNOME",
+        "GOBLIN",
+        "OGRE",
+        "TROLL"
+    ],
+    "BEDS": [
+        "BUNK",
+        "CANOPY",
+        "MURPHY",
+        "TRUNDLE"
+    ],
+    "NONSENSE": [
+        "BUNK",
+        "CROCK",
+        "BALONEY",
+        "TRIPE"
+    ],
+    "FAMOUS BROTHERS": [
+        "JONAS",
+        "MARX",
+        "WARNER",
+        "WRIGHT"
+    ],
+    "HONDAS": [
+        "ACCORD",
+        "CIVIC",
+        "PASSPORT",
+        "PILOT"
+    ],
+    "VIDEO GAME CHARACTERS": [
+        "CRASH",
+        "LINK",
+        "MARIO",
+        "SONIC"
+    ],
+    "CONNECTION": [
+        "LINK",
+        "TIE",
+        "BOND",
+        "RELATION"
+    ],
+    "CONNECT": [
+        "LINK",
+        "TIE",
+        "COUPLE",
+        "HITCH"
+    ],
+    "RELATED TO SOUND/HEARING": [
+        "SONIC",
+        "ACOUSTIC",
+        "AUDITORY",
+        "HEARD"
+    ],
+    "BIRD SOUNDS": [
+        "CAW",
+        "CHIRP",
+        "CLUCK",
+        "TWEET"
+    ],
+    "ANIMAL SOUNDS": [
+        "CLUCK",
+        "BUZZ",
+        "MEOW",
+        "OINK"
+    ],
+    "COLORS": [
+        "BROWN",
+        "PINK",
+        "TURQUOISE",
+        "VIOLET"
+    ],
+    "NFL PLAYERS": [
+        "BROWN",
+        "BEAR",
+        "BILL",
+        "COMMANDER",
+        "BRONCO",
+        "COWBOY",
+        "PACKER",
+        "RAVEN"
+    ],
+    "UNIVERSITIES": [
+        "BROWN",
+        "DUKE",
+        "HOWARD",
+        "RICE"
+    ],
+    "FLOWERS": [
+        "VIOLET",
+        "DAISY",
+        "ROSE",
+        "TULIP"
+    ],
+    "FISHING GEAR": [
+        "LURE",
+        "REEL",
+        "ROD",
+        "TACKLE"
+    ],
+    "LONG, SKINNY OBJECTS": [
+        "ROD",
+        "STICK",
+        "STAFF",
+        "POLE"
+    ],
+    "AMERICAN FOOTBALL POSITIONS": [
+        "TACKLE",
+        "CENTER",
+        "END",
+        "SAFETY"
+    ],
+    "“PETER PAN” CHARACTERS": [
+        "HOOK",
+        "NANA",
+        "PETER",
+        "WENDY"
+    ],
+    "BRA PARTS": [
+        "HOOK",
+        "CUP",
+        "STRAP",
+        "WIRE"
+    ],
+    "BOXING MANEUVERS": [
+        "HOOK",
+        "BOB",
+        "CROSS",
+        "WEAVE"
+    ],
+    "CAPTAINS": [
+        "HOOK",
+        "AMERICA",
+        "MORGAN",
+        "NEMO"
+    ],
+    "JACKS": [
+        "SPARROW",
+        "MA",
+        "BLACK",
+        "FROST"
+    ],
+    "COFFEE DRINKS": [
+        "AMERICANO",
+        "CAPPUCCINO",
+        "ESPRESSO",
+        "LATTE"
+    ],
+    "TREE NUTS": [
+        "ALMOND",
+        "CASHEW",
+        "PECAN",
+        "WALNUT"
+    ],
+    "WRINKLY THINGS": [
+        "WALNUT",
+        "BRAIN",
+        "PRUNE",
+        "PUG"
+    ],
+    "SHADES OF GREEN": [
+        "EMERALD",
+        "FOREST",
+        "FOREST",
+        "KELLY",
+        "OLIVE",
+        "OLIVE",
+        "LIME",
+        "MINT"
+    ],
+    "BIOMES": [
+        "FOREST",
+        "DESERT",
+        "GRASSLAND",
+        "TUNDRA"
+    ],
+    "MR. ___": [
+        "BEAN",
+        "CLEAN",
+        "FOX",
+        "PEANUT"
+    ],
+    "ANIMALS THAT END WITH “X”": [
+        "FOX",
+        "IBEX",
+        "LYNX",
+        "ORYX"
+    ],
+    "SILVER ___": [
+        "FOX",
+        "LINING",
+        "SCREEN",
+        "SPOON"
+    ],
+    "ACCESSORIES": [
+        "TIE",
+        "WATCH",
+        "BELT",
+        "BRACELET"
+    ],
+    "SHIP DIRECTIONS": [
+        "BOW",
+        "PORT",
+        "STARBOARD",
+        "STERN"
+    ],
+    "WAYS TO SHOW RESPECT": [
+        "BOW",
+        "KNEEL",
+        "SALUTE",
+        "STAND"
+    ],
+    "GIFT-GIVING ACCESSORIES": [
+        "BOW",
+        "CARD",
+        "BOX",
+        "WRAPPING"
+    ],
+    "ARCHERY EQUIPMENT": [
+        "BOW",
+        "ARROW",
+        "QUIVER",
+        "TARGET"
+    ],
+    "FERMENTED ALCOHOLIC BEVERAGES": [
+        "PORT",
+        "CIDER",
+        "SAKE",
+        "STOUT"
+    ],
+    "DETERGENTS": [
+        "ALL",
+        "ERA",
+        "GAIN",
+        "TIDE"
+    ],
+    "TENNIS SCORING TERMS": [
+        "ALL",
+        "LOVE",
+        "AD",
+        "DEUCE"
+    ],
+    "___ TRIANGLE": [
+        "ACUTE",
+        "BERMUDA",
+        "LOVE",
+        "RIGHT"
+    ],
+    "RESPONSE TO A CORRECT ANSWER": [
+        "RIGHT",
+        "YES",
+        "BINGO",
+        "CORRECT"
+    ],
+    "MUSCLES, INFORMALLY": [
+        "LAT",
+        "PEC",
+        "QUAD",
+        "TRI"
+    ],
+    "AWARDS": [
+        "CUP",
+        "MEDAL",
+        "RIBBON",
+        "TROPHY"
+    ],
+    "UNITS OF VOLUME": [
+        "CUP",
+        "QUART",
+        "GALLON",
+        "PINT"
+    ],
+    "COFFEE COUNTER ITEMS": [
+        "CUP",
+        "LID",
+        "STIRRER",
+        "STRAW"
+    ],
+    "TITLE TV DOCTORS": [
+        "GREY",
+        "HOUSE",
+        "HOWSER",
+        "QUINN"
+    ],
+    "___ CAT": [
+        "HOUSE",
+        "COPY",
+        "ALLEY",
+        "COOL",
+        "LAP",
+        "DOJA",
+        "FAT",
+        "JUNGLE"
+    ],
+    "FULL ___": [
+        "HOUSE",
+        "MOON",
+        "CIRCLE",
+        "MONTY"
+    ],
+    "SHOWS SET IN HOSPITALS": [
+        "HOUSE",
+        "ER",
+        "RATCHED",
+        "SCRUBS"
+    ],
+    "___ TRAP": [
+        "BEAR",
+        "SAND",
+        "SPEED",
+        "TOURIST"
+    ],
+    "OFF-WHITE SHADES": [
+        "CREAM",
+        "EGGSHELL",
+        "IVORY",
+        "VANILLA"
+    ],
+    "___ CHEESE": [
+        "CREAM",
+        "COTTAGE",
+        "SAY",
+        "STRING"
+    ],
+    "MEDICINE FORMATS": [
+        "CREAM",
+        "TABLET",
+        "CAPSULE",
+        "SYRUP"
+    ],
+    "WORDS SPELLED WITH AN UPSIDE-DOWN CALCULATOR": [
+        "EGGSHELL",
+        "GIGGLE",
+        "BOOB",
+        "HELLO"
+    ],
+    "UNEXCITING": [
+        "VANILLA",
+        "BORING",
+        "DULL",
+        "MUNDANE"
+    ],
+    "ANTI-VAMPIRE": [
+        "CRUCIFIX",
+        "GARLIC",
+        "MIRROR",
+        "STAKE"
+    ],
+    "IMITATE": [
+        "MIRROR",
+        "PARROT",
+        "APE",
+        "MIME"
+    ],
+    "KINDS OF MEAT": [
+        "BEEF",
+        "PORK",
+        "POULTRY",
+        "VENISON"
+    ],
+    "SYNONYMS FOR ARGUMENT": [
+        "QUARREL",
+        "ROW",
+        "SPAT",
+        "TIFF"
+    ],
+    "FILE EXTENSIONS": [
+        "TIFF",
+        "GIF",
+        "PDF",
+        "ZIP"
+    ],
+    "GRAINS": [
+        "BARLEY",
+        "OAT",
+        "RYE",
+        "SPELT"
+    ],
+    "SUPERHERO LAST NAMES": [
+        "PRINCE",
+        "WAYNE",
+        "STARK",
+        "BANNER"
+    ],
+    "STICKY ___": [
+        "RICE",
+        "NOTE",
+        "FINGERS",
+        "WICKET"
+    ],
+    "BEST DIRECTOR OSCAR WINNERS": [
+        "BONG",
+        "FORD",
+        "LEE",
+        "STONE"
+    ],
+    "PRESIDENTS": [
+        "FORD",
+        "LINCOLN",
+        "GRANT",
+        "WILSON"
+    ],
+    "BEST ACTRESS OSCAR WINNERS": [
+        "STONE",
+        "BERRY",
+        "FOSTER",
+        "SWANK"
+    ],
+    "IMPERIAL UNITS": [
+        "STONE",
+        "PECK",
+        "BUSHEL",
+        "TON"
+    ],
+    "TWO LETTERS + NUMBER": [
+        "STONE",
+        "CANINE",
+        "FREIGHT",
+        "OFTEN"
+    ],
+    "CEREAL MASCOTS": [
+        "POP",
+        "LUCKY",
+        "SAM",
+        "TONY"
+    ],
+    "ART MOVEMENTS": [
+        "POP",
+        "DADA",
+        "DECO",
+        "GOTHIC"
+    ],
+    "WEB BROWSERS": [
+        "CHROME",
+        "EDGE",
+        "OPERA",
+        "SAFARI"
+    ],
+    "MICROSOFT PRODUCTS": [
+        "EDGE",
+        "BING",
+        "SURFACE",
+        "WORD"
+    ],
+    "“LITTLE WOMEN” SISTERS": [
+        "AMY",
+        "BETH",
+        "JO",
+        "MEG"
+    ],
+    "DOG BREEDS": [
+        "BOXER",
+        "DALMATIAN",
+        "HUSKY",
+        "POODLE"
+    ],
+    "SINGULAR OF THINGS SEEN IN PAIRS": [
+        "BOXER",
+        "TONG",
+        "GOGGLE",
+        "PANT"
+    ],
+    "ANIMAL NOSES": [
+        "BEAK",
+        "MUZZLE",
+        "SNOUT",
+        "TRUNK"
+    ],
+    "BIRD FEATURES": [
+        "BEAK",
+        "WING",
+        "FEATHER",
+        "TALON"
+    ],
+    "TREE FEATURES": [
+        "TRUNK",
+        "ROOT",
+        "BARK",
+        "BRANCH"
+    ],
+    "PARTS OF A CAR": [
+        "TRUNK",
+        "BUMPER",
+        "HOOD",
+        "TIRE"
+    ],
+    "TRAFFIC SIGNS": [
+        "DETOUR",
+        "SLOW",
+        "STOP",
+        "YIELD"
+    ],
+    "“I GIVE!”": [
+        "STOP",
+        "MERCY",
+        "ENOUGH",
+        "UNCLE"
+    ],
+    "OBSTRUCT": [
+        "STOP",
+        "CLOG",
+        "BLOCK",
+        "JAM"
+    ],
+    "MUSIC PLAYER BUTTONS": [
+        "STOP",
+        "REWIND",
+        "SHUFFLE",
+        "SKIP"
+    ],
+    "SOUND ___": [
+        "ASLEEP",
+        "BARRIER",
+        "BITE",
+        "WAVE"
+    ],
+    "PIQUANCY": [
+        "BITE",
+        "ZIP",
+        "TANG",
+        "KICK"
+    ],
+    "GREETING GESTURES": [
+        "WAVE",
+        "HIGH FIVE",
+        "HUG",
+        "SHAKE"
+    ],
+    "MOVE BACK AND FORTH": [
+        "WAVE",
+        "ROCK",
+        "SWING",
+        "SWAY"
+    ],
+    "60’s BAND MEMBERS": [
+        "BEACH BOY",
+        "BEATLE",
+        "BYRD",
+        "MONKEE"
+    ],
+    "INSECT HOMOPHONES": [
+        "BEATLE",
+        "AUNT",
+        "FLEE",
+        "NAT"
+    ],
+    "DANCE FADS": [
+        "DOUGIE",
+        "MACARENA",
+        "MASHED POTATO",
+        "TWIST"
+    ],
+    "ALTER DECEPTIVELY": [
+        "TWIST",
+        "FUDGE",
+        "DISTORT",
+        "DOCTOR"
+    ],
+    "WRAP AROUND IN A CIRCLE": [
+        "TWIST",
+        "SPIRAL",
+        "WIND",
+        "COIL"
+    ],
+    "MARTINI SPECIFICATIONS": [
+        "TWIST",
+        "UP",
+        "DIRTY",
+        "DRY"
+    ],
+    "MUSIC PUBLICATIONS": [
+        "ROLLING STONE",
+        "BILLBOARD",
+        "PITCHFORK",
+        "SPIN"
+    ],
+    "DANCE MOVES": [
+        "VOGUE",
+        "FLOSS",
+        "ROBOT",
+        "WORM"
+    ],
+    "THINGS WITH LINKS": [
+        "CHAIN",
+        "GOLF COURSE",
+        "SAUSAGE",
+        "WEBSITE"
+    ],
+    "BIKE PARTS": [
+        "CHAIN",
+        "HANDLEBAR",
+        "BRAKE",
+        "SADDLE",
+        "SPOKE",
+        "GEAR",
+        "PEDAL",
+        "WHEEL"
+    ],
+    "SEQUENCE": [
+        "CHAIN",
+        "TRAIN",
+        "STRING",
+        "SERIES"
+    ],
+    "CANDY BARS": [
+        "BOUNTY",
+        "CRUNCH",
+        "HEATH",
+        "MILKY WAY"
+    ],
+    "CHOCOLATE BARS": [
+        "CRUNCH",
+        "CHUNKY",
+        "MARS",
+        "MOUNDS"
+    ],
+    "“CAPTAINS”": [
+        "CRUNCH",
+        "KANGAROO",
+        "PLANET",
+        "OBVIOUS"
+    ],
+    "VIDEO GAME CONSOLES": [
+        "DREAMCAST",
+        "GENESIS",
+        "SWITCH",
+        "WII"
+    ],
+    "CLASSIC ROCK BANDS": [
+        "GENESIS",
+        "KANSAS",
+        "RUSH",
+        "YES"
+    ],
+    "ORIGIN": [
+        "GENESIS",
+        "ROOT",
+        "GERM",
+        "SEED",
+        "SOURCE",
+        "SOURCE",
+        "CRADLE",
+        "FONT"
+    ],
+    "EAR PARTS": [
+        "ANVIL",
+        "COCHLEA",
+        "HAMMER",
+        "STIRRUP"
+    ],
+    "HIT HARD": [
+        "HAMMER",
+        "POUND",
+        "SLAM",
+        "BANG"
+    ],
+    "TRACK AND FIELD EQUIPMENT": [
+        "HAMMER",
+        "POLE",
+        "HURDLE",
+        "JAVELIN"
+    ],
+    "BAND NAMES MINUS NUMBERS": [
+        "BLINK",
+        "MAROON",
+        "SUM",
+        "U"
+    ],
+    "LEAVE HIGH AND DRY": [
+        "MAROON",
+        "DESERT",
+        "DITCH",
+        "STRAND"
+    ],
+    "WHOLE AMOUNT": [
+        "SUM",
+        "COUNT",
+        "GROSS",
+        "TOTAL"
+    ],
+    "DESSERTS": [
+        "CHEESECAKE",
+        "FLAN",
+        "MOUSSE",
+        "TIRAMISU",
+        "CAKE",
+        "COBBLER",
+        "PIE",
+        "TART"
+    ],
+    "MILD OATHS": [
+        "DARN",
+        "FUDGE",
+        "FUDGE",
+        "HECK",
+        "SHOOT",
+        "FIDDLESTICKS",
+        "FIE",
+        "FRICK"
+    ],
+    "USE A NEEDLE AND THREAD": [
+        "DARN",
+        "HEM",
+        "SEAM",
+        "SEW"
+    ],
+    "“PHOOEY!”": [
+        "DARN",
+        "SHOOT",
+        "CURSES",
+        "RATS"
+    ],
+    "ROCK PAPER SCISSORS": [
+        "SHOOT",
+        "PAPER",
+        "ROCK",
+        "SCISSORS"
+    ],
+    "ANIMALS WITH TUSKS": [
+        "ELEPHANT",
+        "HIPPO",
+        "NARWHAL",
+        "WARTHOG"
+    ],
+    "WORDS BEGINNING WITH BODY PARTS": [
+        "HIPPO",
+        "LEGEND",
+        "HANDSOME",
+        "LIPID"
+    ],
+    "MUSTACHES": [
+        "HANDLEBAR",
+        "HORSESHOE",
+        "PENCIL",
+        "WALRUS"
+    ],
+    "LUCKY CHARMS MARSHMALLOWS": [
+        "HORSESHOE",
+        "CLOVER",
+        "MOON",
+        "RAINBOW"
+    ],
+    "SHAPES OF CAPITAL GREEK LETTERS": [
+        "HORSESHOE",
+        "TRIANGLE",
+        "CIRCLE",
+        "PITCHFORK"
+    ],
+    "EUROPEAN COUNTRIES": [
+        "DENMARK",
+        "GREECE",
+        "POLAND",
+        "PORTUGAL"
+    ],
+    "SYNONYMS FOR IMITATE": [
+        "COPY",
+        "ECHO",
+        "MIMIC",
+        "PARROT"
+    ],
+    "EDIT MENU COMMANDS": [
+        "COPY",
+        "CUT",
+        "PASTE",
+        "UNDO"
+    ],
+    "RADIO LINGO": [
+        "COPY",
+        "ROGER",
+        "OUT",
+        "OVER"
+    ],
+    "REPLACEMENT": [
+        "COPY",
+        "EXTRA",
+        "BACKUP",
+        "SPARE"
+    ],
+    "SHORTCUT COMMANDS": [
+        "COPY",
+        "FIND",
+        "PRINT",
+        "SAVE"
+    ],
+    "HARD ___": [
+        "COPY",
+        "CANDY",
+        "KNOCKS",
+        "SELTZER"
+    ],
+    "BAD THINGS FOR A VIDEO CALL TO DO": [
+        "ECHO",
+        "DROP",
+        "FREEZE",
+        "LAG"
+    ],
+    "SEEN IN “ALADDIN”": [
+        "PARROT",
+        "GENIE",
+        "PRINCESS",
+        "MONKEY"
+    ],
+    "TOMS": [
+        "CRUISE",
+        "HOLLAND",
+        "PETTY",
+        "WAITS"
+    ],
+    "WORDS SPELLED WITH ROMAN NUMERALS": [
+        "DILL",
+        "LIVID",
+        "MILD",
+        "MIX"
+    ],
+    "SPICES": [
+        "DILL",
+        "ANISE",
+        "NUTMEG",
+        "SAGE"
+    ],
+    "SYNONYMS FOR ANGRY": [
+        "LIVID",
+        "FURIOUS",
+        "INCENSED",
+        "IRATE"
+    ],
+    "GENTLE": [
+        "MILD",
+        "LIGHT",
+        "MELLOW",
+        "SOFT"
+    ],
+    "HATS": [
+        "BERET",
+        "BOWLER",
+        "FEDORA",
+        "FEZ"
+    ],
+    "ORGANS": [
+        "HEART",
+        "KIDNEY",
+        "LIVER",
+        "LUNG"
+    ],
+    "SEEN ON VALENTINE’S DAY": [
+        "HEART",
+        "ROSE",
+        "CARD",
+        "CHOCOLATE"
+    ],
+    "PLAYING CARD SUITS": [
+        "HEART",
+        "CLUB",
+        "DIAMOND",
+        "SPADE"
+    ],
+    "SOUGHT AFTER IN “THE WIZARD OF OZ”": [
+        "HEART",
+        "BRAIN",
+        "COURAGE",
+        "HOME"
+    ],
+    "CLASSIC TATTOOS": [
+        "HEART",
+        "ROSE",
+        "DRAGON",
+        "ANCHOR"
+    ],
+    "BEANS": [
+        "KIDNEY",
+        "LIMA",
+        "FAVA",
+        "PINTO"
+    ],
+    "PARTS OF A BOOK": [
+        "COVER",
+        "JACKET",
+        "PAGE",
+        "SPINE"
+    ],
+    "COVERINGS": [
+        "COVER",
+        "CAP",
+        "LID",
+        "TOP"
+    ],
+    "“C” WORDS FOR “ENVELOP”": [
+        "COVER",
+        "CAKE",
+        "COAT",
+        "CRUST"
+    ],
+    "CONCEAL": [
+        "COVER",
+        "MASK",
+        "BLOCK",
+        "HIDE"
+    ],
+    "FENCING EQUIPMENT": [
+        "JACKET",
+        "MASK",
+        "GLOVE",
+        "FOIL"
+    ],
+    "PAPER IN A BOOK": [
+        "PAGE",
+        "LEAF",
+        "FOLIO",
+        "SHEET"
+    ],
+    "JACK ___": [
+        "ASS",
+        "KNIFE",
+        "POT",
+        "RABBIT"
+    ],
+    "WEAPONS IN THE GAME CLUE": [
+        "KNIFE",
+        "WRENCH",
+        "CANDLESTICK",
+        "ROPE"
+    ],
+    "COOKWEAR": [
+        "POT",
+        "CROCK",
+        "SKILLET",
+        "WOK"
+    ],
+    "CHINESE ZODIAC ANIMALS": [
+        "RABBIT",
+        "DRAGON",
+        "HORSE",
+        "TIGER"
+    ],
+    "WHO FRAMED ROGER RABBIT": [
+        "RABBIT",
+        "FRAMED",
+        "ROGER",
+        "WHO"
+    ],
+    "SEVEN DWARFS": [
+        "BASHFUL",
+        "DOC",
+        "GRUMPY",
+        "HAPPY"
+    ],
+    "___ HOUR": [
+        "HAPPY",
+        "RUSH",
+        "AMATEUR",
+        "ELEVENTH"
+    ],
+    "FASTENING VERBS": [
+        "ZIP",
+        "BUCKLE",
+        "BUTTON",
+        "SNAP"
+    ],
+    "OOMPH": [
+        "ZIP",
+        "JUICE",
+        "FIRE",
+        "ENERGY"
+    ],
+    "MOVE QUICKLY": [
+        "ZIP",
+        "BOLT",
+        "DASH",
+        "DART"
+    ],
+    "TROPICAL FRUITS": [
+        "BANANA",
+        "COCONUT",
+        "MANGO",
+        "PINEAPPLE"
+    ],
+    "THINGS THAT ARE YELLOW": [
+        "BANANA",
+        "CANARY",
+        "SCHOOL BUS",
+        "SUNFLOWER"
+    ],
+    "CRESCENT-SHAPED THINGS": [
+        "BANANA",
+        "MOON",
+        "SICKLE",
+        "CROISSANT"
+    ],
+    "CHUTNEY VARIETIES": [
+        "MANGO",
+        "TOMATO",
+        "MINT",
+        "TAMARIND"
+    ],
+    "FISHING TERMS": [
+        "FLY",
+        "BAIT",
+        "CHUM",
+        "SINKER"
+    ],
+    "COOL, IN ’80S SLANG": [
+        "FLY",
+        "FRESH",
+        "BAD",
+        "RAD"
+    ],
+    "MOVE THROUGH THE AIR": [
+        "FLY",
+        "FLOAT",
+        "GLIDE",
+        "SOAR"
+    ],
+    "MOVE WITH SPEED": [
+        "FLY",
+        "RACE",
+        "BLAZE",
+        "TEAR"
+    ],
+    "ARITHMETIC OPERATIONS": [
+        "ADD",
+        "DIVIDE",
+        "MULTIPLY",
+        "SUBTRACT"
+    ],
+    "SEPARATE": [
+        "DIVIDE",
+        "SPLIT",
+        "FORK",
+        "PART"
+    ],
+    "FISH": [
+        "SKATE",
+        "SOLE",
+        "TANG",
+        "TETRA",
+        "CHAR",
+        "EEL",
+        "PERCH",
+        "SHARK"
+    ],
+    "SHOE PARTS": [
+        "SOLE",
+        "SOLE",
+        "HEEL",
+        "LACE",
+        "LACE",
+        "TONGUE",
+        "TONGUE",
+        "EYELET"
+    ],
+    "FOOT PARTS": [
+        "SOLE",
+        "BALL",
+        "ARCH",
+        "TOE"
+    ],
+    "STRONG SMELL": [
+        "TANG",
+        "FUNK",
+        "MUSK",
+        "ODOR"
+    ],
+    "BOWLING": [
+        "ALLEY",
+        "BALL",
+        "LANE",
+        "PIN"
+    ],
+    "ROAD NAMES": [
+        "ALLEY",
+        "DRIVE",
+        "LANE",
+        "STREET"
+    ],
+    "WESTERN TROPES": [
+        "COWBOY",
+        "DRIFTER",
+        "OUTLAW",
+        "SHERIFF"
+    ],
+    "SHADES OF BLACK": [
+        "RAVEN",
+        "EBONY",
+        "JET",
+        "ONYX"
+    ],
+    "PASTA SHAPES": [
+        "BOWTIE",
+        "ELBOW",
+        "SHELL",
+        "SPIRAL"
+    ],
+    "FASHIONABLE": [
+        "HIP",
+        "IN",
+        "HOT",
+        "CHIC"
+    ],
+    "CUTS OF PORK": [
+        "SHOULDER",
+        "BELLY",
+        "CHOP",
+        "HOCK"
+    ],
+    "SILENT “W”": [
+        "WRIST",
+        "ANSWER",
+        "TWO",
+        "WRONG"
+    ],
+    "RELATIVES": [
+        "MOTHER",
+        "AUNT",
+        "COUSIN",
+        "NEPHEW"
+    ],
+    "VEGETABLES THAT ARE ALSO FRUITS": [
+        "CUCUMBER",
+        "EGGPLANT",
+        "PEPPER",
+        "TOMATO"
+    ],
+    "SEA ___": [
+        "CUCUMBER",
+        "CHANGE",
+        "LEGS",
+        "LION"
+    ],
+    "DR. ___": [
+        "PEPPER",
+        "EVIL",
+        "J",
+        "NO"
+    ],
+    "B.L.T. INGREDIENTS": [
+        "TOMATO",
+        "BACON",
+        "LETTUCE",
+        "BREAD"
+    ],
+    "3-D SHAPES": [
+        "CONE",
+        "CUBE",
+        "PYRAMID",
+        "SPHERE"
+    ],
+    "PRODUCED BY TREES": [
+        "CONE",
+        "ACORN",
+        "POLLEN",
+        "SAP"
+    ],
+    "PARTS OF THE EYE": [
+        "CONE",
+        "IRIS",
+        "LENS",
+        "PUPIL"
+    ],
+    "CLASSIC GAME SHOWS, FAMILIARLY": [
+        "PYRAMID",
+        "WHEEL",
+        "MILLIONAIRE",
+        "PRICE"
+    ],
+    "SLANG FOR HOME": [
+        "PAD",
+        "CRIB",
+        "DIGS",
+        "JOINT"
+    ],
+    "PROTECTIVE BARRIER": [
+        "PAD",
+        "SHIELD",
+        "BUFFER",
+        "CUSHION"
+    ],
+    "WORDS WITH TWO PRONUNCIATIONS": [
+        "JOB",
+        "LIMA",
+        "MOBILE",
+        "POLISH"
+    ],
+    "BIBLE BOOKS": [
+        "JOB",
+        "MARK",
+        "ACTS",
+        "KINGS"
+    ],
+    "MANICURE STEPS": [
+        "POLISH",
+        "BUFF",
+        "CLIP",
+        "FILE"
+    ],
+    "BADDIE": [
+        "HEEL",
+        "DOG",
+        "JERK",
+        "SNAKE"
+    ],
+    "“GET A ___!”": [
+        "CLUE",
+        "LIFE",
+        "GRIP",
+        "ROOM"
+    ],
+    "COLORS WITH THEIR FIRST LETTERS CHANGED": [
+        "CLUE",
+        "MELLOW",
+        "FROWN",
+        "PREEN"
+    ],
+    "FICTIONAL SPIES": [
+        "BOND",
+        "HUNT",
+        "RYAN",
+        "SMART"
+    ],
+    "CHEMISTRY TERMS": [
+        "BOND",
+        "BASE",
+        "ELEMENT",
+        "SOLUTION"
+    ],
+    "PURSUE": [
+        "HUNT",
+        "DOG",
+        "FOLLOW",
+        "TAIL",
+        "TRACK",
+        "TRACK",
+        "STALK",
+        "TRAIL"
+    ],
+    "TV SHOW TITLE SURNAMES": [
+        "SMART",
+        "MARS",
+        "LASSO",
+        "ROGERS"
+    ],
+    "INTELLIGENT": [
+        "SMART",
+        "BRIGHT",
+        "BRIGHT",
+        "CLEVER",
+        "QUICK",
+        "QUICK",
+        "SHARP",
+        "SHARP"
+    ],
+    "HURT": [
+        "SMART",
+        "ACHE",
+        "BURN",
+        "STING"
+    ],
+    "RUBBER ___": [
+        "BAND",
+        "CEMENT",
+        "DUCKIE",
+        "SOUL"
+    ],
+    "CIRCULAR SHAPES": [
+        "BAND",
+        "RING",
+        "CIRCLE",
+        "HOOP"
+    ],
+    "BOOKED FOR A WEDDING": [
+        "BAND",
+        "CATERER",
+        "FLORIST",
+        "OFFICIANT"
+    ],
+    "CITY HOMOPHONES": [
+        "SOUL",
+        "DELI",
+        "NIECE",
+        "ROAM"
+    ],
+    "BOATS": [
+        "FERRY",
+        "JUNK",
+        "TUG",
+        "YACHT",
+        "BARGE",
+        "DORY",
+        "SCOW",
+        "SLOOP"
+    ],
+    "PULL": [
+        "TUG",
+        "JERK",
+        "WRENCH",
+        "YANK"
+    ],
+    "SANDWICHES": [
+        "CLUB",
+        "CUBAN",
+        "MELT",
+        "SUB"
+    ],
+    "MEDIEVAL WEAPONS": [
+        "CLUB",
+        "SWORD",
+        "MACE",
+        "SPEAR"
+    ],
+    "ORGANIZATION": [
+        "CLUB",
+        "PARTY",
+        "GROUP",
+        "TEAM"
+    ],
+    "KINDS OF HEELS": [
+        "CUBAN",
+        "WEDGE",
+        "KITTEN",
+        "STILETTO"
+    ],
+    "WAYS TO PREPARE CHEESE": [
+        "MELT",
+        "CRUMBLE",
+        "SHRED",
+        "SLICE"
+    ],
+    "LONG SANDWICHES": [
+        "SUB",
+        "GRINDER",
+        "HERO",
+        "HOAGIE"
+    ],
+    "COMMON PREFIXES": [
+        "SUB",
+        "POST",
+        "AUTO",
+        "SEMI"
+    ],
+    "CUTS OF BEEF": [
+        "FLANK",
+        "LOIN",
+        "ROUND",
+        "SHANK"
+    ],
+    "NICKNAMES THAT ARE VERBS": [
+        "CHUCK",
+        "JOSH",
+        "ROB",
+        "SUE"
+    ],
+    "THIEVE": [
+        "ROB",
+        "PINCH",
+        "SWIPE",
+        "STEAL"
+    ],
+    "RIP OFF": [
+        "ROB",
+        "HOSE",
+        "FLEECE",
+        "STIFF"
+    ],
+    "PLEASANT SMELLS": [
+        "AROMA",
+        "BOUQUET",
+        "FRAGRANCE",
+        "SCENT"
+    ],
+    "BRIDAL ACCESSORIES": [
+        "BOUQUET",
+        "TRAIN",
+        "RING",
+        "VEIL"
+    ],
+    "ENDING IN A SILENT “T”": [
+        "BOUQUET",
+        "PARFAIT",
+        "RAGOUT",
+        "RAPPORT"
+    ],
+    "SLANG FOR MONEY": [
+        "PAPER",
+        "CHEDDAR",
+        "DOUGH",
+        "STACKS"
+    ],
+    "RECYCLING CATEGORIES": [
+        "PAPER",
+        "GLASS",
+        "METAL",
+        "PLASTIC"
+    ],
+    "___ JAM": [
+        "PAPER",
+        "PEARL",
+        "NBA",
+        "TRAFFIC"
+    ],
+    "___ CRANE": [
+        "PAPER",
+        "CONSTRUCTION",
+        "FRASIER",
+        "WHOOPING"
+    ],
+    "HUDSONS": [
+        "ROCK",
+        "HENRY",
+        "JENNIFER",
+        "KATE"
+    ],
+    "___ OPERA": [
+        "ROCK",
+        "MET",
+        "COMIC",
+        "SOAP"
+    ],
+    "MALE ANIMALS": [
+        "BOAR",
+        "BUCK",
+        "BUCK",
+        "BULL",
+        "BULL",
+        "JACK",
+        "JACK",
+        "TOM"
+    ],
+    "BALDERDASH": [
+        "BULL",
+        "ROT",
+        "HOGWASH",
+        "NONSENSE"
+    ],
+    "SLANG FOR ZERO": [
+        "JACK",
+        "NADA",
+        "NOTHING",
+        "SQUAT"
+    ],
+    "WORDS WITH “FRUIT”": [
+        "JACK",
+        "DRAGON",
+        "BREAD",
+        "PASSION"
+    ],
+    "U.S. COINS": [
+        "DIME",
+        "NICKEL",
+        "PENNY",
+        "QUARTER"
+    ],
+    "___ BALLOON": [
+        "LEAD",
+        "WATER",
+        "SPEECH",
+        "TRIAL"
+    ],
+    "HELM": [
+        "LEAD",
+        "DIRECT",
+        "GUIDE",
+        "STEER"
+    ],
+    "SHEPHERD": [
+        "LEAD",
+        "DIRECT",
+        "GUIDE",
+        "STEER"
+    ],
+    "PRESIDE OVER": [
+        "LEAD",
+        "RUN",
+        "DIRECT",
+        "CHAIR"
+    ],
+    "CELESTIAL OBJECTS": [
+        "MOON",
+        "ASTEROID",
+        "COMET",
+        "PLANET"
+    ],
+    "___ AND ___": [
+        "AGAIN",
+        "HALF",
+        "NECK",
+        "SO"
+    ],
+    "GUITAR PARTS": [
+        "NECK",
+        "BODY",
+        "BRIDGE",
+        "FRET"
+    ],
+    "MARSUPIALS": [
+        "KANGAROO",
+        "KOALA",
+        "WALLABY",
+        "WOMBAT"
+    ],
+    "”-OUGH” WORDS THAT DON’T RHYME": [
+        "DOUGH",
+        "COUGH",
+        "BOUGH",
+        "TOUGH"
+    ],
+    "MARINE MAMMALS": [
+        "DOLPHIN",
+        "MANATEE",
+        "OTTER",
+        "SEAL"
+    ],
+    "GREAT ___": [
+        "SEAL",
+        "DANE",
+        "LAKE",
+        "WHITE"
+    ],
+    "NATIONAL SYMBOLS": [
+        "SEAL",
+        "FLAG",
+        "ANTHEM",
+        "MOTTO"
+    ],
+    "THINGS MADE OF WAX": [
+        "SEAL",
+        "CANDLE",
+        "CRAYON",
+        "HONEYCOMB"
+    ],
+    "SYNONYMS FOR SELL": [
+        "HAWK",
+        "MOVE",
+        "PEDDLE",
+        "VEND"
+    ],
+    "TONY ___": [
+        "HAWK",
+        "MONTANA",
+        "SOPRANO",
+        "STARK"
+    ],
+    "SODA FOUNTAIN ORDERS": [
+        "MALT",
+        "SHAKE",
+        "FLOAT",
+        "SUNDAE"
+    ],
+    "TREES": [
+        "ASH",
+        "CEDAR",
+        "MAPLE",
+        "PINE"
+    ],
+    "WORDS BEFORE DAYS OF THE WEEK": [
+        "ASH",
+        "FAT",
+        "BLACK",
+        "CYBER"
+    ],
+    "YEARN": [
+        "PINE",
+        "ACHE",
+        "LONG",
+        "THIRST"
+    ],
+    "LAND FORMATIONS": [
+        "HILL",
+        "MOUNTAIN",
+        "PLATEAU",
+        "VALLEY"
+    ],
+    "YOGA POSES": [
+        "MOUNTAIN",
+        "COBRA",
+        "LOTUS",
+        "TREE",
+        "WARRIOR",
+        "TRIANGLE",
+        "COW",
+        "CAT"
+    ],
+    "SMALL WOODED AREA": [
+        "VALLEY",
+        "DELL",
+        "GLEN",
+        "HOLLOW"
+    ],
+    "FAMILIAL NICKNAMES": [
+        "POPPY",
+        "DADA",
+        "GRAMMY",
+        "MUM"
+    ],
+    "STREETS ON SCREEN": [
+        "ELM",
+        "FEAR",
+        "JUMP",
+        "SESAME"
+    ],
+    "BASIC EMOTIONS": [
+        "FEAR",
+        "ANGER",
+        "HAPPINESS",
+        "SURPRISE"
+    ],
+    "TIMEKEEPING DEVICES": [
+        "CLOCK",
+        "HOURGLASS",
+        "SUNDIAL",
+        "WATCH"
+    ],
+    "IPHONE APPS": [
+        "CLOCK",
+        "MAIL",
+        "MAPS",
+        "NOTES"
+    ],
+    "SMARTPHONE FEATURES BEGINNING WITH “C”": [
+        "CLOCK",
+        "CAMERA",
+        "CALCULATOR",
+        "CALENDAR"
+    ],
+    "WALLOP": [
+        "CLOCK",
+        "BELT",
+        "DECK",
+        "SLUG"
+    ],
+    "WHERE YOU MIGHT FIND SAND": [
+        "HOURGLASS",
+        "BEACH",
+        "DESERT",
+        "PLAYGROUND"
+    ],
+    "LOOK AFTER": [
+        "WATCH",
+        "GUARD",
+        "MIND",
+        "TEND"
+    ],
+    "FOLLOW ATTENTIVELY": [
+        "WATCH",
+        "MONITOR",
+        "TRACK",
+        "SURVEY"
+    ],
+    "HAIRSTYLES": [
+        "BOB",
+        "CROP",
+        "PIXIE",
+        "SHAG"
+    ],
+    "UNITS OF MEASURE": [
+        "HERTZ",
+        "MOLE",
+        "NEWTON",
+        "SECOND"
+    ],
+    "ONE INVOLVED IN ESPIONAGE": [
+        "MOLE",
+        "AGENT",
+        "PLANT",
+        "SPY"
+    ],
+    "“AGREE!”": [
+        "SECOND",
+        "DITTO",
+        "LIKEWISE",
+        "SAME"
+    ],
+    "BLINK OF AN EYE": [
+        "SECOND",
+        "FLASH",
+        "HEARTBEAT",
+        "WINK"
+    ],
+    "BRIEF MOMENT": [
+        "SECOND",
+        "FLASH",
+        "WINK",
+        "JIFFY"
+    ],
+    "WOODWINDS": [
+        "BASSOON",
+        "CLARINET",
+        "CLARINET",
+        "FLUTE",
+        "FLUTE",
+        "OBOE",
+        "OBOE",
+        "SAXOPHONE"
+    ],
+    "CONSECUTIVE DOUBLE LETTERS": [
+        "BASSOON",
+        "COFFEE",
+        "BALLOON",
+        "FRICASSEE"
+    ],
+    "RESTRICT": [
+        "CAP",
+        "CHECK",
+        "CURB",
+        "LIMIT"
+    ],
+    "CLASSIC TOYS": [
+        "TOP",
+        "BLOCKS",
+        "DOLL",
+        "YO-YO"
+    ],
+    "APEX": [
+        "TOP",
+        "MAX",
+        "PEAK",
+        "HEIGHT"
+    ],
+    "SUNGLASSES": [
+        "AVIATOR",
+        "CAT EYE",
+        "WAYFARER",
+        "WRAPAROUND"
+    ],
+    "SEALS": [
+        "HARBOR",
+        "HARP",
+        "HOODED",
+        "MONK"
+    ],
+    "MUSICAL INSTRUMENTS": [
+        "HARP",
+        "HARP",
+        "HORN",
+        "HORN",
+        "ORGAN",
+        "ORGAN",
+        "TRIANGLE",
+        "BASS"
+    ],
+    "RELIGIOUS FIGURES": [
+        "MONK",
+        "CARDINAL",
+        "LAMA",
+        "PASTOR"
+    ],
+    "JAZZ LEGENDS": [
+        "MONK",
+        "HANCOCK",
+        "HOLIDAY",
+        "PARKER"
+    ],
+    "TITULAR FICTIONAL DETECTIVES": [
+        "MONK",
+        "MAGNUM",
+        "SHAFT",
+        "TRACY"
+    ],
+    "BOTTLED WATER BRANDS": [
+        "DASANI",
+        "EVIAN",
+        "FIJI",
+        "VOSS"
+    ],
+    "SLANG FOR COFFEE": [
+        "BREW",
+        "JAVA",
+        "JOE",
+        "MUD"
+    ],
+    "ISLAND COUNTRIES": [
+        "CUBA",
+        "JAPAN",
+        "MALTA",
+        "PALAU"
+    ],
+    "CLASSIC DOG NAMES": [
+        "LUCKY",
+        "FIDO",
+        "ROVER",
+        "ROVER",
+        "SPOT",
+        "SPOT",
+        "REX",
+        "FLUFFY"
+    ],
+    "PUNCTUATION MARKS": [
+        "COLON",
+        "COMMA",
+        "HYPHEN",
+        "PERIOD"
+    ],
+    "INTERVAL OF TIME": [
+        "PERIOD",
+        "SPELL",
+        "STRETCH",
+        "WHILE"
+    ],
+    "SECTION OF ONE’S LIFE": [
+        "PERIOD",
+        "CHAPTER",
+        "PHASE",
+        "STAGE"
+    ],
+    "RUN QUICKLY": [
+        "BOLT",
+        "DASH",
+        "RACE",
+        "SPRINT"
+    ],
+    "HARDWARE FASTENERS": [
+        "BOLT",
+        "NAIL",
+        "RIVET",
+        "SCREW"
+    ],
+    "LITTLE BIT, IN A RECIPE": [
+        "DASH",
+        "PINCH",
+        "DROP",
+        "SPLASH"
+    ],
+    "STOOL PIGEON": [
+        "CANARY",
+        "RAT",
+        "SNITCH",
+        "FINK"
+    ],
+    "MARINE BIRDS": [
+        "BOOBY",
+        "GULL",
+        "PELICAN",
+        "PUFFIN"
+    ],
+    "___ BOYS": [
+        "BEACH",
+        "BEASTIE",
+        "HARDY",
+        "LOST"
+    ],
+    "STATES OF MATTER": [
+        "GAS",
+        "GAS",
+        "GAS",
+        "LIQUID",
+        "LIQUID",
+        "LIQUID",
+        "PLASMA",
+        "PLASMA",
+        "PLASMA",
+        "SOLID",
+        "SOLID",
+        "SOLID"
+    ],
+    "MONTHLY BILLS": [
+        "GAS",
+        "WATER",
+        "CABLE",
+        "ELECTRIC"
+    ],
+    "EUPHEMISMS FOR FLATULENCE": [
+        "GAS",
+        "WIND",
+        "STINKER",
+        "TOOT"
+    ],
+    "SET, AS PLANS": [
+        "SOLID",
+        "CONCRETE",
+        "FIRM",
+        "TANGIBLE"
+    ],
+    "SONG": [
+        "CUT",
+        "TRACK",
+        "NUMBER",
+        "SINGLE"
+    ],
+    "FILM SET DIRECTIVES": [
+        "CUT",
+        "ACTION",
+        "CAMERA",
+        "LIGHTS"
+    ],
+    "PORTION OF PROFIT": [
+        "CUT",
+        "SHARE",
+        "PIECE",
+        "TAKE"
+    ],
+    "MAKE SHORTER": [
+        "CUT",
+        "CLIP",
+        "PARE",
+        "TRIM"
+    ],
+    "DEFEAT BADLY": [
+        "CRUSH",
+        "ROUT",
+        "SHELLAC",
+        "TRASH"
+    ],
+    "SODA BRANDS": [
+        "CRUSH",
+        "MUG",
+        "SPRITE",
+        "SQUIRT"
+    ],
+    "ANAGRAMS": [
+        "LEAST",
+        "SLATE",
+        "STALE",
+        "TESLA",
+        "NOPE",
+        "OPEN",
+        "PEON",
+        "PONE"
+    ],
+    "LIST OF CANDIDATES": [
+        "SLATE",
+        "TICKET",
+        "BALLOT",
+        "ROSTER"
+    ],
+    "MODES OF TRANSPORTATION": [
+        "BOAT",
+        "CAR",
+        "PLANE",
+        "TRAIN"
+    ],
+    "MEANS OF TRANSPORTATION": [
+        "BOAT",
+        "CAR",
+        "PLANE",
+        "TRAIN"
+    ],
+    "MOTOR VEHICLES": [
+        "CAR",
+        "BUS",
+        "MOTORCYCLE",
+        "TRUCK"
+    ],
+    "WAYS TO PREPARE": [
+        "TRAIN",
+        "DRILL",
+        "PRACTICE",
+        "STUDY"
+    ],
+    "PROCESSION": [
+        "TRAIN",
+        "CARAVAN",
+        "FLEET",
+        "PARADE"
+    ],
+    "NEWSPAPERS": [
+        "SUN",
+        "GLOBE",
+        "JOURNAL",
+        "POST"
+    ],
+    "NEWSPAPER NAMES": [
+        "SUN",
+        "CHRONICLE",
+        "HERALD",
+        "REGISTER"
+    ],
+    "BAND NAMES MINUS COLORS": [
+        "DAY",
+        "FLOYD",
+        "SABBATH",
+        "STRIPES"
+    ],
+    "PATTERNS": [
+        "STRIPES",
+        "HOUNDSTOOTH",
+        "PAISLEY",
+        "PLAID"
+    ],
+    "FASHION MAGAZINES": [
+        "ALLURE",
+        "ELLE",
+        "GLAMOUR",
+        "W"
+    ],
+    "STORMS": [
+        "BLIZZARD",
+        "CYCLONE",
+        "SQUALL",
+        "TORNADO"
+    ],
+    "COCKTAILS": [
+        "COSMOPOLITAN",
+        "HURRICANE",
+        "MANHATTAN",
+        "SCREWDRIVER"
+    ],
+    "THINGS WITH EYE(S)": [
+        "HURRICANE",
+        "NEEDLE",
+        "FACE",
+        "POTATO"
+    ],
+    "RUDELY BREAK OFF CONTACT": [
+        "DESERT",
+        "GHOST",
+        "IGNORE",
+        "JILT"
+    ],
+    "HETERONYMS": [
+        "DESERT",
+        "WIND",
+        "BASS",
+        "DOVE"
+    ],
+    "LIZARDS": [
+        "CHAMELEON",
+        "GECKO",
+        "IGUANA",
+        "MONITOR"
+    ],
+    "COMPUTER EQUIPMENT": [
+        "MONITOR",
+        "KEYBOARD",
+        "MOUSE",
+        "SPEAKER"
+    ],
+    "THINGS THAT CAN STRIKE": [
+        "COBRA",
+        "INSPIRATION",
+        "LIGHTNING",
+        "UNION"
+    ],
+    "THINGS WITH RINGS": [
+        "TREE",
+        "CIRCUS",
+        "SATURN",
+        "WEDDING"
+    ],
+    "THINGS WITH LEAVES": [
+        "TREE",
+        "BOOK",
+        "TEA",
+        "TABLE"
+    ],
+    "FABRICS": [
+        "CORDUROY",
+        "DENIM",
+        "LINEN",
+        "TWEED"
+    ],
+    "___ PEPPER": [
+        "GHOST",
+        "BLACK",
+        "BELL",
+        "DR"
+    ],
+    "SYNONYMS FOR BOTHER": [
+        "NEEDLE",
+        "POKE",
+        "RIB",
+        "TEASE"
+    ],
+    "DISNEY CHARACTERS": [
+        "BEAST",
+        "GENIE",
+        "SCAR",
+        "STITCH"
+    ],
+    "SYNONYMS FOR OFFBEAT": [
+        "DAFFY",
+        "KOOKY",
+        "QUIRKY",
+        "WACKY"
+    ],
+    "DISNEY DUCKS": [
+        "DAISY",
+        "DEWEY",
+        "DONALD",
+        "SCROOGE"
+    ],
+    "___ CLOCK": [
+        "ALARM",
+        "BIOLOGICAL",
+        "CUCKOO",
+        "GRANDFATHER"
+    ],
+    "TYPES OF PAINT": [
+        "ACRYLIC",
+        "OIL",
+        "TEMPERA",
+        "WATERCOLOR"
+    ],
+    "DEEP-FRIED FOOD": [
+        "FALAFEL",
+        "KATSU",
+        "SAMOSA",
+        "SCHNITZEL"
+    ],
+    "STARTS OF U.S. COINS": [
+        "DIM",
+        "NICK",
+        "PEN",
+        "QUART"
+    ],
+    "MAR": [
+        "NICK",
+        "CHIP",
+        "DING",
+        "SCRATCH"
+    ],
+    "SMALL IMPERFECTION": [
+        "NICK",
+        "CHIP",
+        "SCRATCH",
+        "MARK"
+    ],
+    "FARM FIXTURES": [
+        "PEN",
+        "STABLE",
+        "COOP",
+        "STY"
+    ],
+    "WORKSHOP TOOLS": [
+        "GRINDER",
+        "SAW",
+        "DRILL",
+        "ROUTER"
+    ],
+    "ALL-TIMER": [
+        "HERO",
+        "GREAT",
+        "ICON",
+        "LEGEND"
+    ],
+    "DATING APPS": [
+        "BUMBLE",
+        "HINGE",
+        "MATCH",
+        "TINDER"
+    ],
+    "MESS UP": [
+        "BUMBLE",
+        "SPOIL",
+        "BLOW",
+        "FLUFF"
+    ],
+    "PARTS OF A DOOR": [
+        "HINGE",
+        "LOCK",
+        "FRAME",
+        "HANDLE"
+    ],
+    "___ POINT": [
+        "MATCH",
+        "WEST",
+        "MOOT",
+        "SELLING"
+    ],
+    "DATING APP ACTIONS": [
+        "MATCH",
+        "SWIPE",
+        "BLOCK",
+        "MESSAGE"
+    ],
+    "USED IN BUILDING A FIRE": [
+        "MATCH",
+        "TINDER",
+        "LOG",
+        "KINDLING"
+    ],
+    "VAMPIRE MOVIES": [
+        "BLADE",
+        "LOST BOYS",
+        "NEAR DARK",
+        "TWILIGHT"
+    ],
+    "SUPERHEROES": [
+        "BLADE",
+        "BLACK WIDOW",
+        "FLASH",
+        "STORM"
+    ],
+    "GOLF TERMS": [
+        "DRIVER",
+        "EAGLE",
+        "HOLE",
+        "STROKE"
+    ],
+    "___ PAD": [
+        "MOUSE",
+        "BACHELOR",
+        "LILY",
+        "MAXI"
+    ],
+    "RODENTS": [
+        "GERBIL",
+        "HAMSTER",
+        "RAT",
+        "VOLE"
+    ],
+    "TATTLE": [
+        "RAT",
+        "SING",
+        "SNITCH",
+        "SQUEAL"
+    ],
+    "BASIC TWO-DIMENSIONAL SHAPES": [
+        "TRIANGLE",
+        "DIAMOND",
+        "CIRCLE",
+        "SQUARE"
+    ],
+    "SYNONYMS FOR COMPLAIN": [
+        "CARP",
+        "GRIPE",
+        "GROUSE",
+        "MOAN"
+    ],
+    "FISH THAT ARE VERBS": [
+        "CARP",
+        "CATFISH",
+        "FLOUNDER",
+        "SMELT"
+    ],
+    "STONED": [
+        "BAKED",
+        "BLAZED",
+        "HIGH",
+        "LIT"
+    ],
+    "___ ROAD": [
+        "HIGH",
+        "ABBEY",
+        "ROCKY",
+        "SILK"
+    ],
+    "___ CHAIR": [
+        "HIGH",
+        "FIRST",
+        "FOLDING",
+        "LAWN"
+    ],
+    "COOL, IN SLANG": [
+        "LIT",
+        "FIRE",
+        "SICK",
+        "TIGHT"
+    ],
+    "AP CLASSES": [
+        "BIO",
+        "CHEM",
+        "GOV",
+        "STATS"
+    ],
+    "TAXONOMY RANKS": [
+        "CLASS",
+        "DOMAIN",
+        "FAMILY",
+        "ORDER"
+    ],
+    "___ CIRCUS": [
+        "FAMILY",
+        "FLEA",
+        "FLYING",
+        "MEDIA"
+    ],
+    "PLACES FOR WORSHIP": [
+        "ALTAR",
+        "RELIQUARY",
+        "SHRINE",
+        "TEMPLE"
+    ],
+    "CARTOON CATS": [
+        "FELIX",
+        "GARFIELD",
+        "SYLVESTER",
+        "TOM"
+    ],
+    "DRUM SET COMPONENTS": [
+        "TOM",
+        "CYMBAL",
+        "KICK",
+        "SNARE"
+    ],
+    "PRESIDENTIAL FIRST NAMES": [
+        "CALVIN",
+        "CHESTER",
+        "GROVER",
+        "HARRY"
+    ],
+    "WHEN HARRY MET SALLY": [
+        "HARRY",
+        "MET",
+        "SALLY",
+        "WHEN"
+    ],
+    "ROCKY HORROR PICTURE SHOW": [
+        "ROCKY",
+        "HORROR",
+        "PICTURE",
+        "SHOW"
+    ],
+    "LUXURIOUS FABRICS": [
+        "SILK",
+        "CHIFFON",
+        "SATIN",
+        "VELVET"
+    ],
+    "EQUIVOCATE": [
+        "YO-YO",
+        "HEDGE",
+        "SEE-SAW",
+        "WAVER"
+    ],
+    "WORDS WITH THREE G’S": [
+        "BAGGAGE",
+        "EGGNOG",
+        "GIGGLE",
+        "LEGGINGS"
+    ],
+    "SHAKESPEARE CHARACTERS": [
+        "DUNCAN",
+        "JULIET",
+        "PUCK",
+        "VIOLA"
+    ],
+    "CLASSIC ARCADE GAMES": [
+        "ASTEROIDS",
+        "BREAKOUT",
+        "FROGGER",
+        "PONG"
+    ],
+    "DANCES": [
+        "HUSTLE",
+        "SALSA",
+        "SWING",
+        "TANGO"
+    ],
+    "SCAM": [
+        "HUSTLE",
+        "CON",
+        "FAST ONE",
+        "RACKET"
+    ],
+    "KINDS OF DANCE": [
+        "SALSA",
+        "SWING",
+        "TAP",
+        "MODERN"
+    ],
+    "PLAYGROUND FIXTURES": [
+        "SWING",
+        "SLIDE",
+        "SANDBOX",
+        "SEESAW"
+    ],
+    "IN THE NATO ALPHABET": [
+        "TANGO",
+        "ALFA",
+        "BRAVO",
+        "ROMEO"
+    ],
+    "TOUCHSCREEN GESTURES": [
+        "PINCH",
+        "SPREAD",
+        "SWIPE",
+        "TAP"
+    ],
+    "WATER SOURCES": [
+        "TAP",
+        "FOUNTAIN",
+        "SPRING",
+        "WELL"
+    ],
+    "HIDDEN LISTENING DEVICES": [
+        "TAP",
+        "WIRE",
+        "BUG",
+        "MIKE"
+    ],
+    "RAPPERS MINUS NUMBERS": [
+        "CENT",
+        "CHAINZ",
+        "PAC",
+        "SAVAGE"
+    ],
+    "MOVIE GENRES": [
+        "HORROR",
+        "MUSICAL",
+        "ROMANCE",
+        "WESTERN"
+    ],
+    "SYNONYMS FOR FALSEHOOD": [
+        "FIB",
+        "FICTION",
+        "LIE",
+        "TALE"
+    ],
+    "BOOKSTORE SECTIONS": [
+        "FICTION",
+        "HUMOR",
+        "POETRY",
+        "TRAVEL"
+    ],
+    "CANDY PIECES": [
+        "DOT",
+        "GOOBER",
+        "KISS",
+        "WHOPPER"
+    ],
+    "HAPPY NEW YEAR!": [
+        "KISS",
+        "BALL",
+        "COUNTDOWN",
+        "FIREWORKS"
+    ],
+    "WHAT “X” MIGHT MEAN": [
+        "KISS",
+        "TIMES",
+        "ADULT",
+        "TEN"
+    ],
+    "TOUCH LIGHTLY": [
+        "KISS",
+        "BRUSH",
+        "GRAZE",
+        "SKIM"
+    ],
+    "SELECT, AS A BOX ON A FORM": [
+        "TICK",
+        "X",
+        "MARK",
+        "CHECK"
+    ],
+    "COME DOWN TO REST": [
+        "PERCH",
+        "LAND",
+        "ROOST",
+        "SETTLE"
+    ],
+    "SWINDLER": [
+        "SHARK",
+        "CROOK",
+        "CHEAT",
+        "QUACK"
+    ],
+    "REFLECT LIGHT": [
+        "FLASH",
+        "GLEAM",
+        "GLITTER",
+        "SPARKLE"
+    ],
+    "T-___": [
+        "STORM",
+        "BONE",
+        "REX",
+        "SHIRT"
+    ],
+    "MTV SHOWS": [
+        "CATFISH",
+        "CRIBS",
+        "JACKASS",
+        "STATE"
+    ],
+    "REALITY SHOWS": [
+        "CATFISH",
+        "ALONE",
+        "CHOPPED",
+        "SURVIVOR"
+    ],
+    "HEAD OF ___": [
+        "STATE",
+        "STEAM",
+        "HAIR",
+        "LETTUCE"
+    ],
+    "EXPRESS": [
+        "STATE",
+        "AIR",
+        "SPEAK",
+        "VOICE"
+    ],
+    "UNSPECIFIED QUANTITIES": [
+        "FEW",
+        "HANDFUL",
+        "SEVERAL",
+        "SOME"
+    ],
+    "SANTA’S REINDEER": [
+        "COMET",
+        "CUPID",
+        "DASHER",
+        "VIXEN"
+    ],
+    "THINGS WITH CORES": [
+        "PLANET",
+        "APPLE",
+        "COMPUTER",
+        "REACTOR"
+    ],
+    "SPHERICAL THINGS": [
+        "GLOBE",
+        "BUBBLE",
+        "MARBLE",
+        "PEARL"
+    ],
+    "FRUIT HOMOPHONES": [
+        "LYME",
+        "MELLON",
+        "PAIR",
+        "PLUMB"
+    ],
+    "WORDS FOR SPECIFIC QUANTITIES": [
+        "PAIR",
+        "DOZEN",
+        "GROSS",
+        "SCORE"
+    ],
+    "ROMANTIC TWOSOME": [
+        "PAIR",
+        "THING",
+        "COUPLE",
+        "ITEM"
+    ],
+    "HORROR FRANCHISES": [
+        "PURGE",
+        "RING",
+        "SAW",
+        "SCREAM"
+    ],
+    "CELL PHONE MODES": [
+        "RING",
+        "FOCUS",
+        "SILENT",
+        "VIBRATE"
+    ],
+    "12 DAYS OF CHRISTMAS": [
+        "RING",
+        "DRUMMER",
+        "LADY",
+        "SWAN"
+    ],
+    "DIGITAL NOTIFICATION SOUNDS": [
+        "RING",
+        "DING",
+        "CHIME",
+        "PING"
+    ],
+    "CONTACT VIA PHONE": [
+        "RING",
+        "BUZZ",
+        "DIAL",
+        "CALL"
+    ],
+    "THINGS WITH TEETH": [
+        "SAW",
+        "GEAR",
+        "COMB",
+        "ZIPPER"
+    ],
+    "SPORTS VENUES": [
+        "COURT",
+        "DIAMOND",
+        "FIELD",
+        "FIELD",
+        "RINK",
+        "DOME",
+        "BOWL",
+        "ARENA"
+    ],
+    "MAKE HAPPY": [
+        "CHARM",
+        "DELIGHT",
+        "DELIGHT",
+        "PLEASE",
+        "PLEASE",
+        "TICKLE",
+        "TICKLE",
+        "AMUSE"
+    ],
+    "ATTRACTION": [
+        "CHARM",
+        "PULL",
+        "APPEAL",
+        "DRAW"
+    ],
+    "LUCKY ___": [
+        "CHARM",
+        "STRIKE",
+        "DUCK",
+        "BREAK"
+    ],
+    "BIT OF MAGIC": [
+        "CHARM",
+        "SPELL",
+        "CURSE",
+        "HEX"
+    ],
+    "\"GIVE ME A BREAK!\"": [
+        "PLEASE",
+        "LORD",
+        "BROTHER",
+        "SHEESH"
+    ],
+    "JEWELRY": [
+        "ANKLET",
+        "BANGLE",
+        "BROOCH",
+        "PENDANT"
+    ],
+    "THEORETICAL PHYSICISTS": [
+        "EINSTEIN",
+        "FEYNMAN",
+        "HAWKING",
+        "OPPENHEIMER"
+    ],
+    "TALENT": [
+        "FACULTY",
+        "FLAIR",
+        "GENIUS",
+        "GIFT"
+    ],
+    "AUSTRALIAN TERMS": [
+        "BARBIE",
+        "BUSH",
+        "CRIKEY",
+        "MATE"
+    ],
+    "FRIEND": [
+        "MATE",
+        "CHUM",
+        "BUD",
+        "PAL"
+    ],
+    "DRINKS WITH CAFFEINE": [
+        "MATE",
+        "COFFEE",
+        "COCOA",
+        "TEA"
+    ],
+    "STATE ABBREVIATIONS": [
+        "CO",
+        "MA",
+        "MA",
+        "ME",
+        "PA",
+        "LA",
+        "OK",
+        "HI"
+    ],
+    "MUSICAL NOTES": [
+        "DO",
+        "FA",
+        "LA",
+        "TI"
+    ],
+    "PERIODIC TABLE SYMBOLS": [
+        "FE",
+        "HE",
+        "NA",
+        "NI"
+    ],
+    "FEATURES OF A BELT": [
+        "BUCKLE",
+        "HOLE",
+        "STRAP",
+        "LOOP"
+    ],
+    "SHIRT FEATURES": [
+        "BUTTON",
+        "COLLAR",
+        "CUFF",
+        "POCKET"
+    ],
+    "AMERICAN FOOTBALL ACTIONS": [
+        "SNAP",
+        "FUMBLE",
+        "PUNT",
+        "SACK"
+    ],
+    "SOMETHING EASY TO DO": [
+        "SNAP",
+        "BREEZE",
+        "CINCH",
+        "PICNIC"
+    ],
+    "___ BURGER": [
+        "NOTHING",
+        "GOOD",
+        "IMPOSSIBLE",
+        "WARREN"
+    ],
+    "GET LOW": [
+        "SQUAT",
+        "DUCK",
+        "CROUCH",
+        "STOOP"
+    ],
+    "GYM EXERCISES": [
+        "CURL",
+        "LUNGE",
+        "PLANK",
+        "PRESS"
+    ],
+    "BIT OF HAIR": [
+        "CURL",
+        "LOCK",
+        "RINGLET",
+        "TRESS"
+    ],
+    "MEDIA ATTENTION": [
+        "PRESS",
+        "COVERAGE",
+        "EXPOSURE",
+        "PUBLICITY"
+    ],
+    "STICKY SITUATION": [
+        "SPOT",
+        "BIND",
+        "PICKLE",
+        "SCRAPE"
+    ],
+    "PERCEIVE": [
+        "CATCH",
+        "NOTICE",
+        "OBSERVE",
+        "SEE"
+    ],
+    "FUNNY ___": [
+        "BONE",
+        "BUSINESS",
+        "GIRL",
+        "PAGES"
+    ],
+    "THINGS TO PICK": [
+        "BONE",
+        "LOCK",
+        "AFRO",
+        "FIGHT"
+    ],
+    "CLASSICAL ELEMENTS": [
+        "AIR",
+        "EARTH",
+        "FIRE",
+        "WATER"
+    ],
+    "BROADCAST": [
+        "AIR",
+        "RUN",
+        "SHOW",
+        "SCREEN"
+    ],
+    "___ DAY HOLIDAYS": [
+        "EARTH",
+        "MAY",
+        "GROUNDHOG",
+        "LABOR"
+    ],
+    "___ ANT": [
+        "FIRE",
+        "RED",
+        "CARPENTER",
+        "ADAM"
+    ],
+    "RHYMES": [
+        "FIRE",
+        "AARON",
+        "DARREN",
+        "KAREN",
+        "SHARON",
+        "CHOIR",
+        "FRYER",
+        "LIAR"
+    ],
+    "___FLY": [
+        "FIRE",
+        "DRAGON",
+        "HORSE",
+        "BUTTER"
+    ],
+    "GARDENING NOUNS/VERBS": [
+        "WATER",
+        "WEED",
+        "PLANT",
+        "SEED"
+    ],
+    "CELEBRATORY OCCASIONS": [
+        "WEDDING",
+        "ANNIVERSARY",
+        "BIRTHDAY",
+        "SHOWER"
+    ],
+    "TIME PERIODS": [
+        "CENTURY",
+        "DECADE",
+        "MILLENNIUM",
+        "YEAR"
+    ],
+    "LIGHT ___": [
+        "YEAR",
+        "BEER",
+        "BULB",
+        "RAIL"
+    ],
+    "BREAKFAST FOODS": [
+        "CEREAL",
+        "OMELET",
+        "PANCAKE",
+        "WAFFLE"
+    ],
+    "TYPES OF FRENCH FRIES": [
+        "WAFFLE",
+        "WEDGE",
+        "CURLY",
+        "SHOESTRING"
+    ],
+    "PAINTERS": [
+        "BACON",
+        "CLOSE",
+        "MUNCH",
+        "WHISTLER"
+    ],
+    "ONE IN A DOZEN": [
+        "EGG",
+        "JUROR",
+        "MONTH",
+        "ROSE"
+    ],
+    "EASTER ___": [
+        "EGG",
+        "BUNNY",
+        "ISLAND",
+        "SUNDAY"
+    ],
+    "ENCOURAGE, WITH \"ON\"": [
+        "EGG",
+        "SPUR",
+        "GOAD",
+        "URGE"
+    ],
+    "IRREGULAR VERBS": [
+        "ROSE",
+        "DREW",
+        "MAY",
+        "WILL"
+    ],
+    "WORDS PRONOUNCED DIFFERENTLY WITH ACCENT MARKS": [
+        "ROSE",
+        "EXPOSE",
+        "PATE",
+        "RESUME"
+    ],
+    "FOODS WITH CRUSTS": [
+        "PIE",
+        "TART",
+        "TURNOVER",
+        "PASTY"
+    ],
+    "OCCUPATIONAL SURNAMES": [
+        "FISHER",
+        "MASON",
+        "MILLER",
+        "SMITH"
+    ],
+    "SQUARE ___": [
+        "DANCE",
+        "MEAL",
+        "ONE",
+        "ROOT"
+    ],
+    "HAPPY ___": [
+        "MEAL",
+        "CAMPER",
+        "HOUR",
+        "MEDIUM"
+    ],
+    "ADJECTIVE INTENSIFIERS": [
+        "AWFUL",
+        "REAL",
+        "PRETTY",
+        "RATHER"
+    ],
+    "WORLD CURRENCIES": [
+        "RAND",
+        "REAL",
+        "STERLING",
+        "WON"
+    ],
+    "NUMBER HOMOPHONES": [
+        "WON",
+        "ATE",
+        "FOR",
+        "TOO"
+    ],
+    "HOT DRINKS": [
+        "COFFEE",
+        "CHAI",
+        "COCOA",
+        "TEA"
+    ],
+    "AMERICAN POETS": [
+        "POUND",
+        "BISHOP",
+        "FROST",
+        "OLDS"
+    ],
+    "SYMBOLS ABOVE NUMBERS ON A KEYBOARD": [
+        "POUND",
+        "AT",
+        "DOLLAR",
+        "PERCENT"
+    ],
+    "SEA CREATURES": [
+        "SPONGE",
+        "CRAB",
+        "RAY",
+        "SQUID"
+    ],
+    "FLOWER PARTS": [
+        "BUD",
+        "LEAF",
+        "PETAL",
+        "STALK"
+    ],
+    "SLANG FOR CANNABIS": [
+        "GRASS",
+        "HERB",
+        "MARY JANE",
+        "WEED"
+    ],
+    "CAMPING SUPPLIES": [
+        "COOLER",
+        "LANTERN",
+        "SLEEPING BAG",
+        "TENT"
+    ],
+    "INSULT": [
+        "BARB",
+        "DIG",
+        "DISS",
+        "JAB"
+    ],
+    "TINY": [
+        "MINUTE",
+        "SLIGHT",
+        "SMALL",
+        "WEE"
+    ],
+    "WEE": [
+        "MINUTE",
+        "SLIGHT",
+        "LITTLE",
+        "DINKY"
+    ],
+    "U.S. MOUNTAIN STATES": [
+        "ARIZONA",
+        "COLORADO",
+        "NEVADA",
+        "UTAH"
+    ],
+    "PERFORMING ARTISTS": [
+        "ACTOR",
+        "DANCER",
+        "SINGER",
+        "STAND-UP"
+    ],
+    "FUNNY PERSON": [
+        "CARD",
+        "CLOWN",
+        "CUTUP",
+        "JOKER"
+    ],
+    "THINGS YOU CAN DRAW": [
+        "CARD",
+        "PICTURE",
+        "BATH",
+        "CURTAIN"
+    ],
+    "CANDY STORE TREATS": [
+        "CHOCOLATE",
+        "GUM",
+        "LICORICE",
+        "LOLLIPOP"
+    ],
+    "“BAD ___” MOVIES": [
+        "BOYS",
+        "LIEUTENANT",
+        "SANTA",
+        "TASTE"
+    ],
+    "___ BABY": [
+        "SANTA",
+        "BEANIE",
+        "FUR",
+        "NEPO"
+    ],
+    "SECRET ___": [
+        "SANTA",
+        "AGENT",
+        "CODE",
+        "SAUCE"
+    ],
+    "SENSES": [
+        "TASTE",
+        "SIGHT",
+        "SMELL",
+        "TOUCH"
+    ],
+    "FACIAL HAIR": [
+        "BEARD",
+        "GOATEE",
+        "MUSTACHE",
+        "STUBBLE"
+    ],
+    "HAND- AND FOOT-RELATED SLANG": [
+        "DOG",
+        "DIGIT",
+        "MITT",
+        "PIGGY"
+    ],
+    "“POINTERS”": [
+        "DOG",
+        "ARROW",
+        "FINGER",
+        "HINT"
+    ],
+    "___WOOD": [
+        "DOG",
+        "DRIFT",
+        "HOLLY",
+        "SANDAL"
+    ],
+    "SOCIAL MEDIA ACTIONS": [
+        "FOLLOW",
+        "LIKE",
+        "SHARE",
+        "SUBSCRIBE"
+    ],
+    "BUTT": [
+        "TAIL",
+        "BOTTOM",
+        "BUNS",
+        "SEAT"
+    ],
+    "FOLLOW": [
+        "TAIL",
+        "TRACK",
+        "SHADOW",
+        "TRAIL"
+    ],
+    "THINGS THAT ARE CAST": [
+        "DOUBT",
+        "MOVIE",
+        "SHADOW",
+        "VOTE"
+    ],
+    "EXTINCT ANIMALS": [
+        "DODO",
+        "MAMMOTH",
+        "MASTODON",
+        "TRILOBITE"
+    ],
+    "FAILURES": [
+        "BUSTS",
+        "FLOPS",
+        "MISSES",
+        "TURKEYS"
+    ],
+    "SLANG FOR CLOTHES": [
+        "DUDS",
+        "GETUP",
+        "OUTFIT",
+        "THREADS"
+    ],
+    "KISS": [
+        "PECK",
+        "SMACK",
+        "SMOOCH",
+        "X"
+    ],
+    "EAT A LITTLE": [
+        "PECK",
+        "SNACK",
+        "GRAZE",
+        "NIBBLE"
+    ],
+    "SOCIAL GATHERING": [
+        "BASH",
+        "BLOWOUT",
+        "PARTY",
+        "SHINDIG"
+    ],
+    "FOUND IN A KITCHEN": [
+        "COUNTER",
+        "MIXER",
+        "RANGE",
+        "SINK"
+    ],
+    "BEAN ___": [
+        "COUNTER",
+        "DIP",
+        "BAG",
+        "SPROUT"
+    ],
+    "DATA SET DATA": [
+        "RANGE",
+        "MEAN",
+        "MEDIAN",
+        "MODE"
+    ],
+    "COLORS MINUS THEIR FIRST LETTERS": [
+        "RANGE",
+        "OLD",
+        "INK",
+        "LACK"
+    ],
+    "DECLINE": [
+        "SINK",
+        "SINK",
+        "DIP",
+        "DIP",
+        "DROP",
+        "DROP",
+        "FALL",
+        "FALL",
+        "EBB",
+        "FADE",
+        "FLAG",
+        "WANE"
+    ],
+    "LAND SURROUNDED BY WATER": [
+        "ISLAND",
+        "BAR",
+        "KEY",
+        "ATOLL"
+    ],
+    "DAYS OF THE WEEK": [
+        "SUNDAY",
+        "FRIDAY",
+        "SATURDAY",
+        "THURSDAY"
+    ],
+    "NEWSPAPER SECTIONS": [
+        "BUSINESS",
+        "NATIONAL",
+        "OPINION",
+        "STYLE"
+    ],
+    "APPEARANCE": [
+        "STYLE",
+        "DRESS",
+        "LOOK",
+        "MANNER"
+    ],
+    "FIRST WORDS IN RAPPERS’ NAMES": [
+        "FOXY",
+        "GUCCI",
+        "KILLER",
+        "NOTORIOUS"
+    ],
+    "HITCHCOCK MOVIES": [
+        "NOTORIOUS",
+        "ROPE",
+        "BIRDS",
+        "REBECCA"
+    ],
+    "PIECES OF CHICKEN": [
+        "BREAST",
+        "DRUMSTICK",
+        "TENDER",
+        "WING"
+    ],
+    "APPETIZER UNIT": [
+        "WING",
+        "FRY",
+        "NACHO",
+        "POPPER"
+    ],
+    "DIVISION": [
+        "WING",
+        "BRANCH",
+        "ARM",
+        "CHAPTER"
+    ],
+    "GROUP WITHIN A GROUP": [
+        "WING",
+        "CAMP",
+        "DIVISION",
+        "FACTION"
+    ],
+    "DEPARTMENT": [
+        "WING",
+        "BRANCH",
+        "ARM",
+        "CHAPTER"
+    ],
+    "WIN + LETTER": [
+        "WING",
+        "WINK",
+        "WIND",
+        "WINE"
+    ],
+    "FUN TIME": [
+        "KICK",
+        "BALL",
+        "BLAST",
+        "RIOT"
+    ],
+    "ASSOCIATED WITH “CRAWL”": [
+        "INFANT",
+        "PUB",
+        "SWIMMING",
+        "TICKER"
+    ],
+    "___ TAPE": [
+        "TICKER",
+        "DEMO",
+        "RED",
+        "SCOTCH"
+    ],
+    "STATES OF ELATION": [
+        "BLISS",
+        "CLOUD NINE",
+        "HEAVEN",
+        "PARADISE"
+    ],
+    "DECEIVE": [
+        "CON",
+        "FOOL",
+        "TRICK",
+        "DUPE"
+    ],
+    "WHAT “O” MIGHT MEAN": [
+        "HUG",
+        "OF",
+        "OXYGEN",
+        "ZERO"
+    ],
+    "BEAR ___": [
+        "HUG",
+        "CLAW",
+        "FRUIT",
+        "WITNESS"
+    ],
+    "ICE CREAM TREATS": [
+        "SHAKE",
+        "SPLIT",
+        "FLOAT",
+        "SUNDAE"
+    ],
+    "___ LIST": [
+        "BUCKET",
+        "GUEST",
+        "TOP TEN",
+        "WISH"
+    ],
+    "WORDS THAT GO WITH “BONE”": [
+        "WISH",
+        "FUNNY",
+        "HERRING",
+        "SOUP"
+    ],
+    "DEPART QUICKLY": [
+        "BOOK",
+        "BOUNCE",
+        "RUN",
+        "SPLIT"
+    ],
+    "SOCIAL MEDIA APP ENDINGS": [
+        "BOOK",
+        "GRAM",
+        "IN",
+        "TUBE"
+    ],
+    "THINGS WITH SPINES": [
+        "BOOK",
+        "CACTUS",
+        "HEDGEHOG",
+        "SKELETON"
+    ],
+    "RAP SUBGENRES": [
+        "BOUNCE",
+        "CRUNK",
+        "DRILL",
+        "GRIME"
+    ],
+    "BASEBALL STATS": [
+        "RUN",
+        "WALK",
+        "DOUBLE",
+        "HIT"
+    ],
+    "M. NIGHT SHYAMALAN MOVIES": [
+        "SPLIT",
+        "GLASS",
+        "OLD",
+        "SIGNS"
+    ],
+    "GYMNASTICS POSITIONS": [
+        "SPLIT",
+        "PIKE",
+        "STRADDLE",
+        "TUCK"
+    ],
+    "___ COMEDY": [
+        "BLACK",
+        "DIVINE",
+        "PROP",
+        "SKETCH"
+    ],
+    "INFLUENCE": [
+        "CLOUT",
+        "PULL",
+        "SWAY",
+        "WEIGHT"
+    ],
+    "FONTS": [
+        "COURIER",
+        "IMPACT",
+        "PAPYRUS",
+        "TIMES"
+    ],
+    "___JACK": [
+        "APPLE",
+        "CRACKER",
+        "FLAP",
+        "LUMBER"
+    ],
+    "TECH COMPANIES": [
+        "APPLE",
+        "ALPHABET",
+        "AMAZON",
+        "META"
+    ],
+    "WALK HEAVILY": [
+        "LUMBER",
+        "PLOD",
+        "STOMP",
+        "TRUDGE"
+    ],
+    "DRINK VESSELS": [
+        "GOBLET",
+        "SNIFTER",
+        "STEIN",
+        "TUMBLER"
+    ],
+    "ECCLESIASTICAL TITLES": [
+        "BISHOP",
+        "CARDINAL",
+        "PASTOR",
+        "PRIOR"
+    ],
+    "AU NATUREL": [
+        "BARE",
+        "NAKED",
+        "NUDE",
+        "UNCLAD"
+    ],
+    "BAKED GOODS": [
+        "BUN",
+        "DANISH",
+        "MUFFIN",
+        "TURNOVER"
+    ],
+    "UNIT OF BREAD": [
+        "BUN",
+        "LOAF",
+        "BAGUETTE",
+        "ROLL"
+    ],
+    "POSTPONE": [
+        "PUNT",
+        "TABLE",
+        "HOLD",
+        "STALL"
+    ],
+    "ENTHUSIAST": [
+        "BUFF",
+        "FAN",
+        "LOVER",
+        "NUT"
+    ],
+    "FEMALE ANIMALS": [
+        "COW",
+        "DOE",
+        "HEN",
+        "MARE"
+    ],
+    "ROMAN NUMERALS": [
+        "D",
+        "L",
+        "M",
+        "V"
+    ],
+    "I LOVE ___": [
+        "YOU",
+        "LUCY",
+        "NEW YORK",
+        "ROCK 'N ROLL"
+    ],
+    "PAINTING ACCESSORIES": [
+        "BRUSH",
+        "CANVAS",
+        "EASEL",
+        "PALETTE"
+    ],
+    "AUTOMATIC TRANSMISSION SETTINGS": [
+        "DRIVE",
+        "NEUTRAL",
+        "PARK",
+        "REVERSE"
+    ],
+    "IMPEL": [
+        "DRIVE",
+        "INSPIRE",
+        "MOTIVATE",
+        "SPUR"
+    ],
+    "AVENUES IN N.Y.C.": [
+        "PARK",
+        "BROADWAY",
+        "FIFTH",
+        "MADISON"
+    ],
+    "PRIMARY": [
+        "FIRST",
+        "CHIEF",
+        "MAIN",
+        "PRINCIPAL"
+    ],
+    "INFORMATION DISPLAYS": [
+        "CHART",
+        "DIAGRAM",
+        "GRAPH",
+        "MAP"
+    ],
+    "ADDITIONAL BENEFIT": [
+        "BONUS",
+        "EXTRA",
+        "ICING",
+        "PERK"
+    ],
+    "SONG TITLES WITH PARENTHESES": [
+        "I RAN",
+        "ISTANBUL",
+        "MONTERO",
+        "SATISFACTION"
+    ],
+    "POWER ___": [
+        "PLANT",
+        "NAP",
+        "RANGER",
+        "TRIP"
+    ],
+    "MANUFACTURING LOCATIONS": [
+        "PLANT",
+        "FACTORY",
+        "MILL",
+        "SHOP"
+    ],
+    "MAHJONG TILES": [
+        "DRAGON",
+        "BAMBOO",
+        "SEASON",
+        "WIND"
+    ],
+    "GYMNASTICS APPARATUS": [
+        "HORSE",
+        "FLOOR",
+        "RINGS",
+        "VAULT"
+    ],
+    "THINGS WITH STRIPES": [
+        "TIGER",
+        "CANDY CANE",
+        "CROSSWALK",
+        "REFEREE"
+    ],
+    "MAKE PUBLIC": [
+        "SHOW",
+        "DISPLAY",
+        "EXHIBIT",
+        "PRESENT"
+    ],
+    "MAD MAX FURY ROAD": [
+        "FURY",
+        "MAD",
+        "MAX",
+        "ROAD"
+    ],
+    "PIXAR MOVIES": [
+        "BRAVE",
+        "CARS",
+        "COCO",
+        "UP"
+    ],
+    "STAND UP TO, AS A CHALLENGE": [
+        "BRAVE",
+        "FACE",
+        "CONFRONT",
+        "MEET"
+    ],
+    "THINGS WITH TRUNKS": [
+        "CARS",
+        "ELEPHANTS",
+        "SWIMMERS",
+        "TREES"
+    ],
+    "PREFIXES WITH -CRACY": [
+        "DEMO",
+        "AUTO",
+        "BUREAU",
+        "PLUTO"
+    ],
+    "BASEBALL CALLS": [
+        "BALL",
+        "OUT",
+        "SAFE",
+        "STRIKE"
+    ],
+    "PINBALL MACHINE COMPONENTS": [
+        "BALL",
+        "FLIPPER",
+        "BUMPER",
+        "PLUNGER"
+    ],
+    "HARD HIT": [
+        "STRIKE",
+        "BLOW",
+        "LICK",
+        "SOCK"
+    ],
+    "HEAT SOURCES": [
+        "FORGE",
+        "FURNACE",
+        "KILN",
+        "OVEN"
+    ],
+    "FALSIFY": [
+        "FORGE",
+        "FAKE",
+        "FABRICATE",
+        "FIX"
+    ],
+    "SILENT “L”": [
+        "COLONEL",
+        "SALMON",
+        "WALK",
+        "YOLK"
+    ],
+    "___ LADDER": [
+        "SALMON",
+        "ROPE",
+        "WORD",
+        "CORPORATE"
+    ],
+    "AMAZON ANIMALS": [
+        "ANACONDA",
+        "CAPYBARA",
+        "JAGUAR",
+        "TOUCAN"
+    ],
+    "CAR COMPANIES": [
+        "JAGUAR",
+        "BMW",
+        "HONDA",
+        "SUBARU"
+    ],
+    "CAR BRANDS": [
+        "JAGUAR",
+        "FIAT",
+        "MINI",
+        "RAM"
+    ],
+    "MUSICALS": [
+        "COMPANY",
+        "GREASE",
+        "HAIR",
+        "RENT"
+    ],
+    "COMMERCIAL ORGANIZATION": [
+        "COMPANY",
+        "FIRM",
+        "AGENCY",
+        "ENTERPRISE"
+    ],
+    "ANIMAL HOMOPHONES": [
+        "HAIR",
+        "DEAR",
+        "HOARSE",
+        "WAIL"
+    ],
+    "TV SHOWS": [
+        "24",
+        "BONES",
+        "FIREFLY",
+        "FIREFLY",
+        "WEEDS",
+        "FARGO",
+        "FLEABAG",
+        "FLIPPER"
+    ],
+    "KINDS OF EXAMS": [
+        "BAR",
+        "FINAL",
+        "ORAL",
+        "PHYSICAL"
+    ],
+    "NUMBERS IN BOOK TITLES": [
+        "20,000",
+        "2001",
+        "22",
+        "451"
+    ],
+    "MONOTONOUS SOUNDS": [
+        "BUZZ",
+        "HUM",
+        "DRONE",
+        "PURR"
+    ],
+    "DOG SOUNDS": [
+        "BARK",
+        "GROWL",
+        "HOWL",
+        "WHINE"
+    ],
+    "INSIDE INFO": [
+        "DIRT",
+        "DISH",
+        "SCOOP",
+        "SCOOP",
+        "SKINNY",
+        "SKINNY",
+        "WORD",
+        "DOPE"
+    ],
+    "TABLEWARE": [
+        "DISH",
+        "BOWL",
+        "PLATE",
+        "SAUCER"
+    ],
+    "TIME OFF": [
+        "LEAVE",
+        "RECESS",
+        "HOLIDAY",
+        "BREAK"
+    ],
+    "EYE PARTS": [
+        "IRIS",
+        "LENS",
+        "PUPIL",
+        "RETINA"
+    ],
+    "FILMMAKING EQUIPMENT": [
+        "LENS",
+        "BOOM",
+        "DOLLY",
+        "TRIPOD"
+    ],
+    "COUNTERFEIT": [
+        "BOGUS",
+        "FAKE",
+        "PHONY",
+        "SHAM"
+    ],
+    "SONGS THAT ARE NAMES": [
+        "ALEJANDRO",
+        "LOLA",
+        "MICHELLE",
+        "STAN"
+    ],
+    "EMIT LIGHT": [
+        "BEAM",
+        "GLOW",
+        "RADIATE",
+        "SHINE"
+    ],
+    "JUMP INTO THE AIR": [
+        "VAULT",
+        "SPRING",
+        "BOUND",
+        "LEAP"
+    ],
+    "ENORMOUS": [
+        "GIANT",
+        "BIG",
+        "GREAT",
+        "HUGE"
+    ],
+    "SUPER MARIO-RELATED": [
+        "PRINCESS",
+        "DINOSAUR",
+        "MUSHROOM",
+        "PLUMBER"
+    ],
+    "“PEANUTS” CHARACTERS": [
+        "CHARLIE",
+        "PEPPERMINT PATTY",
+        "PIGPEN",
+        "WOODSTOCK"
+    ],
+    "FRUITS": [
+        "APRICOT",
+        "FIG",
+        "GRAPE",
+        "LIME"
+    ],
+    "MOJITO INGREDIENTS": [
+        "LIME",
+        "MINT",
+        "RUM",
+        "SODA"
+    ],
+    "LUXURIOUS": [
+        "DELUXE",
+        "GRAND",
+        "LAVISH",
+        "OPULENT"
+    ],
+    "VENERABLE": [
+        "GRAND",
+        "AUGUST",
+        "NOBLE",
+        "REGAL"
+    ],
+    "WHAT “GREEN” MIGHT MEAN": [
+        "ENVIOUS",
+        "FRESH",
+        "NAIVE",
+        "UNWELL"
+    ],
+    "OSTENTATIOUS, AS AN OUTFIT": [
+        "BRIGHT",
+        "FLASHY",
+        "GARISH",
+        "LOUD"
+    ],
+    "WONDER WOMAN’S COSTUME": [
+        "LASSO",
+        "SHIELD",
+        "SWORD",
+        "TIARA"
+    ],
+    "DIRTY ___": [
+        "DOZEN",
+        "JOKE",
+        "LAUNDRY",
+        "MARTINI"
+    ],
+    "COMEDIAN’S OUTPUT": [
+        "JOKE",
+        "SKETCH",
+        "BIT",
+        "ROUTINE"
+    ],
+    "SPARSE/LACKING": [
+        "SPARE",
+        "SHORT",
+        "LIGHT",
+        "THIN"
+    ],
+    "LONG, SHARP OBJECTS": [
+        "PIN",
+        "LANCE",
+        "SKEWER",
+        "SPIT"
+    ],
+    "RESTAURANT WORKERS": [
+        "BARTENDER",
+        "CHEF",
+        "HOST",
+        "SERVER"
+    ],
+    "MUPPETS": [
+        "ANIMAL",
+        "BEAKER",
+        "GONZO",
+        "SCOOTER"
+    ],
+    "KINDS OF CRACKERS": [
+        "ANIMAL",
+        "GOLDFISH",
+        "OYSTER",
+        "RITZ"
+    ],
+    "VERY IMPORTANT": [
+        "KEY",
+        "CENTRAL",
+        "CRITICAL",
+        "VITAL"
+    ],
+    "ROBUST": [
+        "FIT",
+        "HEALTHY",
+        "SOUND",
+        "STRONG"
+    ],
+    "BODIES OF WATER": [
+        "SOUND",
+        "CANAL",
+        "CHANNEL",
+        "STRAIT"
+    ],
+    "BIT OF LIQUID": [
+        "DROP",
+        "TEAR",
+        "BEAD",
+        "GLOB"
+    ],
+    "EXPRESSIONS OF HESITATION": [
+        "WELL",
+        "ERM",
+        "UH",
+        "UM"
+    ],
+    "WOMEN SINGERS": [
+        "KEYS",
+        "NICKS",
+        "SUMMER",
+        "SWIFT"
+    ],
+    "KITCHEN UTENSILS": [
+        "GRATER",
+        "LADLE",
+        "PEELER",
+        "WHISK"
+    ],
+    "SITCOM FAMILIES": [
+        "BUNKER",
+        "CLEAVER",
+        "PARTRIDGE",
+        "TANNER"
+    ],
+    "OF-THE-MOMENT": [
+        "IN",
+        "HOT",
+        "BIG",
+        "POPULAR"
+    ],
+    "HOLLOW CYLINDERS": [
+        "TUBE",
+        "STRAW",
+        "HOSE",
+        "PIPE"
+    ],
+    "SNAKES": [
+        "BOA",
+        "MAMBA",
+        "PYTHON",
+        "VIPER"
+    ],
+    "THINGS MADE WITH FEATHERS": [
+        "BOA",
+        "HEADDRESS",
+        "PILLOW",
+        "SHUTTLECOCK"
+    ],
+    "LINGERIE": [
+        "GARTER",
+        "SLIP",
+        "TEDDY",
+        "THONG"
+    ],
+    "SUMMARY": [
+        "ABSTRACT",
+        "BRIEF",
+        "DIGEST",
+        "RUNDOWN"
+    ],
+    "THINGS THAT ARE “STICKY”": [
+        "GUM",
+        "STICK",
+        "GLUE",
+        "TAPE"
+    ],
+    "TARGET OF A SCHEME": [
+        "CHUMP",
+        "FOOL",
+        "MARK",
+        "SUCKER"
+    ],
+    "GO UP AGAINST": [
+        "FACE",
+        "CHALLENGE",
+        "CONFRONT",
+        "OPPOSE"
+    ],
+    "FLEXIBLE": [
+        "PLASTIC",
+        "ELASTIC",
+        "LIMBER",
+        "SUPPLE"
+    ],
+    "WHAT “BEAT” MAY MEAN": [
+        "ASSIGNMENT",
+        "DEFEAT",
+        "TEMPO",
+        "TIRED"
+    ],
+    "LEGWEAR, IN THE SINGULAR": [
+        "SHORT",
+        "PANT",
+        "TIGHT",
+        "JEAN"
+    ],
+    "LONG-HAIRED ANIMALS": [
+        "AFGHAN",
+        "ALPACA",
+        "ANGORA",
+        "YAK"
+    ],
+    "PRATTLE ON": [
+        "BLATHER",
+        "CHAT",
+        "GAB",
+        "JABBER"
+    ],
+    "CHRISTMAS-RELATED": [
+        "MISTLETOE",
+        "REINDEER",
+        "SNOWMAN",
+        "STOCKING"
+    ],
+    "TORUS-SHAPED FOOD": [
+        "BAGEL",
+        "CHEERIO",
+        "DONUT",
+        "LIFESAVER"
+    ],
+    "COSTUMES WITH STRIPED SHIRTS": [
+        "REFEREE",
+        "SAILOR",
+        "MIME",
+        "PRISONER"
+    ],
+    "BOOK SECTIONS": [
+        "CHAPTER",
+        "APPENDIX",
+        "INDEX",
+        "PREFACE"
+    ],
+    "LAUGHTER, IN A TEXT": [
+        "DEAD",
+        "HAHA",
+        "LOL",
+        "ROFL"
+    ],
+    "NATURAL FEATURES": [
+        "BROOK",
+        "CLIFF",
+        "DALE",
+        "SAVANNA"
+    ],
+    "PARTS OF A MOUNTAIN": [
+        "CLIFF",
+        "CRAG",
+        "LEDGE",
+        "RIDGE"
+    ],
+    "PHONE CONNECTIVITY": [
+        "BARS",
+        "RECEPTION",
+        "SERVICE",
+        "SIGNAL"
+    ],
+    "CITIES AND TOWNS IN ENGLAND": [
+        "BATH",
+        "DERBY",
+        "READING",
+        "SANDWICH"
+    ],
+    "SLANG FOR HEAD": [
+        "CROWN",
+        "DOME",
+        "MELON",
+        "NOODLE"
+    ],
+    "PARTS OF A WATCH": [
+        "CROWN",
+        "DIAL",
+        "HAND",
+        "STRAP"
+    ],
+    "STATUE OF LIBERTY FEATURES": [
+        "CROWN",
+        "TORCH",
+        "ROBE",
+        "TABLET"
+    ],
+    "DENTAL TERMS": [
+        "CROWN",
+        "CAVITY",
+        "FILLING",
+        "PLAQUE"
+    ],
+    "AGGREGATE SIZE": [
+        "NUMBER",
+        "AMOUNT",
+        "QUANTITY",
+        "VOLUME"
+    ],
+    "“CAN I GET YOUR ___?” (PHONE INFO REQUEST)": [
+        "NUMBER",
+        "CELL",
+        "CONTACT",
+        "DIGITS"
+    ],
+    "PARTS OF FRUIT YOU MIGHT NOT EAT": [
+        "SEED",
+        "STEM",
+        "CORE",
+        "RIND"
+    ],
+    "N.H.L. TEAMS": [
+        "FLAMES",
+        "KRAKEN",
+        "STARS",
+        "WILD"
+    ],
+    "___ PAPER": [
+        "BUTCHER",
+        "SCRAP",
+        "TOILET",
+        "WAX"
+    ],
+    "TERMS FOR RECORDS": [
+        "WAX",
+        "LP",
+        "PLATTER",
+        "VINYL"
+    ],
+    "WAYS TO REMOVE HAIR": [
+        "WAX",
+        "SHAVE",
+        "THREAD",
+        "TWEEZE"
+    ],
+    "ROTARY PHONE PARTS": [
+        "DIAL",
+        "CORD",
+        "CRADLE",
+        "HANDSET"
+    ],
+    "CITIES BEGINNING WITH “L”": [
+        "LAGOS",
+        "LIMERICK",
+        "LINCOLN",
+        "LUXOR"
+    ],
+    "POETRY TERMS": [
+        "LINE",
+        "METER",
+        "RHYME",
+        "VERSE"
+    ],
+    "BASIC GEOMETRIC OBJECTS": [
+        "LINE",
+        "POINT",
+        "RAY",
+        "SEGMENT"
+    ],
+    "“THE(E) ___” RAPPERS": [
+        "CREATOR",
+        "DUDE",
+        "RAPPER",
+        "STALLION"
+    ],
+    "PLUNDER": [
+        "BOOTY",
+        "LOOT",
+        "SPOILS",
+        "SWAG"
+    ],
+    "RESERVE FOR LATER": [
+        "SAVE",
+        "STORE",
+        "BANK",
+        "STASH"
+    ],
+    "TITLE MOVIE ANIMALS": [
+        "BABE",
+        "BEETHOVEN",
+        "CHARLOTTE",
+        "WILLY"
+    ],
+    "GO BAD": [
+        "ROT",
+        "SOUR",
+        "SPOIL",
+        "TURN"
+    ],
+    "BASIC TASTES": [
+        "SOUR",
+        "SWEET",
+        "BITTER",
+        "SALTY"
+    ],
+    "“THE ADDAMS FAMILY” CHARACTERS": [
+        "FESTER",
+        "LURCH",
+        "THING",
+        "WEDNESDAY"
+    ],
+    "PARTY POOPER": [
+        "DUD",
+        "BORE",
+        "DRAG",
+        "DRIP"
+    ],
+    "SOMETHING TIRESOME": [
+        "BORE",
+        "DRAG",
+        "SNOOZE",
+        "YAWN"
+    ],
+    "___ BUTTON": [
+        "SNOOZE",
+        "BELLY",
+        "HOT",
+        "PANIC"
+    ],
+    "BIT OF WIND": [
+        "BREEZE",
+        "DRAFT",
+        "GUST",
+        "PUFF"
+    ],
+    "SECOND WORDS OF VODKA COCKTAILS": [
+        "BREEZE",
+        "MARY",
+        "MULE",
+        "RUSSIAN"
+    ],
+    "FAST ___": [
+        "FASHION",
+        "FOOD",
+        "FORWARD",
+        "FRIENDS"
+    ],
+    "EMAIL ACTIONS": [
+        "FORWARD",
+        "COMPOSE",
+        "REPLY ALL",
+        "SEND"
+    ],
+    "ANIMAL HOMES": [
+        "DEN",
+        "HIVE",
+        "LAIR",
+        "NEST"
+    ],
+    "ROOMS IN A HOUSE": [
+        "DEN",
+        "STUDY",
+        "BEDROOM",
+        "KITCHEN"
+    ],
+    "VIRTUAL SPACES": [
+        "CLOUD",
+        "METAVERSE",
+        "NET",
+        "WEB"
+    ],
+    "MURKY CONDITION": [
+        "CLOUD",
+        "FOG",
+        "HAZE",
+        "MIST"
+    ],
+    "NUMBER ANAGRAMS": [
+        "NET",
+        "EON",
+        "ETHER",
+        "TOW"
+    ],
+    "EQUITABLE": [
+        "EQUAL",
+        "EVEN",
+        "FAIR",
+        "JUST"
+    ],
+    "ELIZABETHS (AND ONE ELISABETH)": [
+        "WARREN",
+        "BANKS",
+        "MOSS",
+        "TAYLOR"
+    ],
+    "ACRONYMS": [
+        "LASER",
+        "RADAR",
+        "SCUBA",
+        "SPAM"
+    ],
+    "RELAX": [
+        "CHILL",
+        "HANG",
+        "LOAF",
+        "LOUNGE"
+    ],
+    "CATCHY SONG": [
+        "BANGER",
+        "BOP",
+        "GROOVE",
+        "JAM"
+    ],
+    "BRITISH CUISINE": [
+        "MASH",
+        "ROAST",
+        "SCONE",
+        "TRIFLE"
+    ],
+    "CRITICIZE": [
+        "ROAST",
+        "KNOCK",
+        "PAN",
+        "SLAM"
+    ],
+    "ROMANTIC BEGINNINGS": [
+        "CONNECTION",
+        "FEELINGS",
+        "SPARK",
+        "VIBE"
+    ],
+    "SMALL OPENING": [
+        "CRANNY",
+        "NICHE",
+        "NOOK",
+        "RECESS"
+    ],
+    "PARADIGMATIC": [
+        "CLASSIC",
+        "DEFINITIVE",
+        "MODEL",
+        "TEXTBOOK"
+    ],
+    "RHYMING COMPOUND WORDS": [
+        "BACKPACK",
+        "BIGWIG",
+        "DOWNTOWN",
+        "RAGTAG"
+    ],
+    "___ PITCH": [
+        "PERFECT",
+        "ELEVATOR",
+        "FEVER",
+        "SALES"
+    ],
+    "“GRACIOUS ME!”": [
+        "GOODNESS",
+        "HEAVENS",
+        "LORD",
+        "MERCY"
+    ],
+    "INCREASE": [
+        "BUILD",
+        "GROW",
+        "MOUNT",
+        "SWELL"
+    ],
+    "EXCELLENT, IN OLD SLANG": [
+        "ACES",
+        "KEEN",
+        "NEATO",
+        "NIFTY"
+    ],
+    "MUSICAL SECTIONS": [
+        "BRASS",
+        "WIND",
+        "STRING",
+        "RHYTHM"
+    ],
+    "BOLDNESS, FIGURATIVELY": [
+        "GALL",
+        "NERVE",
+        "GUTS",
+        "STONES"
+    ],
+    "W.N.B.A. TEAMS": [
+        "LIBERTY",
+        "MERCURY",
+        "SKY",
+        "SPARKS"
+    ],
+    "QUICK PEEK": [
+        "LOOK",
+        "GANDER",
+        "GLANCE",
+        "GLIMPSE"
+    ],
+    "ART MOVEMENTS, WITH -ISM": [
+        "MANNER",
+        "EXPRESSION",
+        "ROMANTIC",
+        "SURREAL"
+    ],
+    "MISHMASH": [
+        "HASH",
+        "JUMBLE",
+        "MEDLEY",
+        "STEW"
+    ],
+    "GROUP OF OFFSPRING": [
+        "BROOD",
+        "CLUTCH",
+        "HATCH",
+        "LITTER"
+    ],
+    "CARD GAMES": [
+        "BRIDGE",
+        "SPIT",
+        "GIN",
+        "WAR"
+    ],
+    "WEIGHTS IN BOXING": [
+        "FEATHER",
+        "LIGHT",
+        "HEAVY",
+        "MIDDLE"
+    ],
+    "SEEN ON A FARM": [
+        "BARN",
+        "CHICKEN",
+        "FARMER",
+        "TRACTOR"
+    ],
+    "HORROR DIRECTORS": [
+        "ASTER",
+        "CARPENTER",
+        "CRAVEN",
+        "WAN"
+    ],
+    "“C” + BIRD": [
+        "CRAVEN",
+        "CHEN",
+        "CLARK",
+        "COWL"
+    ],
+    "“E-” THINGS": [
+        "SPORTS",
+        "BIKE",
+        "CIGARETTE",
+        "TICKET"
+    ],
+    "IGNITE": [
+        "BURN",
+        "KINDLE",
+        "LIGHT",
+        "TORCH"
+    ],
+    "OVEN BUTTONS": [
+        "LIGHT",
+        "BAKE",
+        "BROIL",
+        "TIMER"
+    ],
+    "INFORMATION": [
+        "DATA",
+        "INFO",
+        "INTEL",
+        "NEWS"
+    ],
+    "NEVERTHELESS": [
+        "HOWEVER",
+        "STILL",
+        "THOUGH",
+        "YET"
+    ],
+    "REPEATED WORDS IN EXPRESSIONS": [
+        "HEAR",
+        "KNOCK",
+        "THERE",
+        "TUT"
+    ],
+    "CREDENTIALS FOR ENTRY": [
+        "TICKET",
+        "PASS",
+        "BADGE",
+        "INVITE"
+    ],
+    "WORDS WITH NUMERICAL PREFIXES": [
+        "BICYCLE",
+        "QUADRANT",
+        "TRILOGY",
+        "UNIFORM"
+    ],
+    "FINANCIAL TERMS": [
+        "STOCK",
+        "CAPITAL",
+        "EQUITY",
+        "INTEREST"
+    ],
+    "INGREDIENTS IN MINESTRONE": [
+        "STOCK",
+        "BEANS",
+        "PASTA",
+        "VEGETABLES"
+    ],
+    "___LAND COUNTRIES": [
+        "ICE",
+        "FIN",
+        "IRE",
+        "NETHER"
+    ],
+    "CARRY A TUNE": [
+        "SING",
+        "HUM",
+        "SCAT",
+        "WHISTLE"
+    ],
+    "UNIT OF LANGUAGE": [
+        "WORD",
+        "LETTER",
+        "PARAGRAPH",
+        "SENTENCE"
+    ],
+    "BROUGHT TO THE BEACH": [
+        "FLIP-FLOP",
+        "SUNSCREEN",
+        "TOWEL",
+        "UMBRELLA"
+    ],
+    "DOCTORS’ ORDERS": [
+        "DIET",
+        "EXERCISE",
+        "FRESH AIR",
+        "SLEEP"
+    ],
+    "PODCASTS": [
+        "RADIOLAB",
+        "SERIAL",
+        "UP FIRST",
+        "WTF"
+    ],
+    "DEODORANTS": [
+        "AXE",
+        "DEGREE",
+        "OLD SPICE",
+        "SECRET"
+    ],
+    "SECLUDED": [
+        "SECRET",
+        "HIDDEN",
+        "PRIVATE",
+        "REMOTE"
+    ],
+    "SPORTS PROFESSIONALS": [
+        "COACH",
+        "GM",
+        "PLAYER",
+        "SCOUT"
+    ],
+    "TRADEMARK": [
+        "FEATURE",
+        "HALLMARK",
+        "STAMP",
+        "TRAIT"
+    ],
+    "CABLE CHANNELS": [
+        "HALLMARK",
+        "BET",
+        "E",
+        "USA"
+    ],
+    "BIT OF VOCAL FANFARE": [
+        "BEHOLD",
+        "PRESTO",
+        "TADA",
+        "VOILA"
+    ],
+    "OBTAIN": [
+        "GET",
+        "LAND",
+        "SECURE",
+        "WIN"
+    ],
+    "ASSURE, AS A WIN": [
+        "SECURE",
+        "CLINCH",
+        "GUARANTEE",
+        "LOCK"
+    ],
+    "“GROSS!”": [
+        "EW",
+        "ICK",
+        "PU",
+        "UGH"
+    ],
+    "“YES” IN DIFFERENT LANGUAGES": [
+        "DA",
+        "HAI",
+        "JA",
+        "SI"
+    ],
+    "BODYWEIGHT EXERCISES": [
+        "DIPS",
+        "LUNGES",
+        "PLANKS",
+        "SQUATS"
+    ],
+    "EMAIL SIGN-OFFS": [
+        "BEST",
+        "CHEERS",
+        "REGARDS",
+        "THANKS"
+    ],
+    "TV SHOWS WITH HAPPY-SOUNDING NAMES": [
+        "CHEERS",
+        "EUPHORIA",
+        "FELICITY",
+        "GLEE"
+    ],
+    "M.L.B. TEAMS, FOR SHORT": [
+        "CARDS",
+        "JAYS",
+        "NATS",
+        "YANKS"
+    ],
+    "THINGS SEEN AT A CASINO": [
+        "CARDS",
+        "DICE",
+        "CHIPS",
+        "SLOTS"
+    ],
+    "DECEIT": [
+        "ACT",
+        "BLUFF",
+        "CHARADE",
+        "FRONT"
+    ],
+    "COMEDIAN’S PERFORMANCE": [
+        "ACT",
+        "BIT",
+        "ROUTINE",
+        "SET"
+    ],
+    "HIGHEST POINT": [
+        "PEAK",
+        "CREST",
+        "SUMMIT",
+        "VERTEX"
+    ],
+    "ONSET": [
+        "BIRTH",
+        "CREATION",
+        "DAWN",
+        "START"
+    ],
+    "WHAT “BLUE” MIGHT MEAN": [
+        "NOBLE",
+        "DEMOCRATIC",
+        "EROTIC",
+        "SAD"
+    ],
+    "WALK": [
+        "MARCH",
+        "STEP",
+        "STRIDE",
+        "TREAD"
+    ],
+    "PRIMATES": [
+        "BABOON",
+        "BONOBO",
+        "GIBBON",
+        "GORILLA"
+    ],
+    "TYPES OF TEETH": [
+        "CANINE",
+        "FANG",
+        "MOLAR",
+        "TUSK"
+    ],
+    "AREAS BETWEEN MOUNTAINS AND HILLS": [
+        "CANYON",
+        "GULCH",
+        "PASS",
+        "RAVINE"
+    ],
+    "___ VALLEY": [
+        "HIDDEN",
+        "DEATH",
+        "SILICON",
+        "UNCANNY"
+    ],
+    "READS THE SAME ROTATED 180°": [
+        "96",
+        "MOW",
+        "NOON",
+        "SIS"
+    ],
+    "MUNICIPALITIES": [
+        "CITY",
+        "COUNTY",
+        "TOWN",
+        "VILLAGE"
+    ],
+    "BLENDER BUTTONS": [
+        "CHOP",
+        "GRIND",
+        "PULSE",
+        "PUREE"
+    ],
+    "___ LEAGUE": [
+        "IVY",
+        "JUSTICE",
+        "LITTLE",
+        "PREMIER"
+    ],
+    "ABSOLUTE": [
+        "TOTAL",
+        "PURE",
+        "SHEER",
+        "UTTER"
+    ],
+    "INSIDE A SCRABBLE BOX": [
+        "BAG",
+        "BOARD",
+        "RACKS",
+        "TILES"
+    ],
+    "___ PIT": [
+        "SNAKE",
+        "BARBECUE",
+        "ORCHESTRA",
+        "TAR"
+    ],
+    "AVOID": [
+        "DODGE",
+        "DUCK",
+        "ESCAPE",
+        "SKIRT"
+    ],
+    "SIDEKICKS": [
+        "GOOSE",
+        "HOBBES",
+        "ROBIN",
+        "WATSON"
+    ],
+    "PLACES TO SHOP": [
+        "MALL",
+        "MARKET",
+        "OUTLET",
+        "STORE"
+    ],
+    "KINDS OF WRENCHES": [
+        "ALLEN",
+        "CRESCENT",
+        "MONKEY",
+        "SOCKET"
+    ],
+    "CONTAINERS": [
+        "BASKET",
+        "BIN",
+        "CHEST",
+        "HAMPER"
+    ],
+    "RESTRAIN": [
+        "CHECK",
+        "CURB",
+        "LIMIT",
+        "STEM"
+    ],
+    "MERRIMENT": [
+        "GLEE",
+        "CHEER",
+        "FESTIVITY",
+        "MIRTH"
+    ],
+    "FOUND ON SHEET MUSIC": [
+        "CLEF",
+        "NOTE",
+        "REST",
+        "STAFF"
+    ],
+    "SYMBOLIC RODS": [
+        "STAFF",
+        "BATON",
+        "SCEPTER",
+        "WAND"
+    ],
+    "CURMUDGEON": [
+        "CRAB",
+        "CRANK",
+        "GROUCH",
+        "GRUMP"
+    ],
+    "SOMETHING EXEMPLARY": [
+        "GEM",
+        "BEAUTY",
+        "MARVEL",
+        "PEACH"
+    ],
+    "THINGS YOU CAN DO TO YOUR NOSE": [
+        "BLOW",
+        "HOLD",
+        "PICK",
+        "THUMB"
+    ],
+    "PESTER": [
+        "BADGER",
+        "BUG",
+        "HOUND",
+        "NAG"
+    ],
+    "FARM TOOLS": [
+        "HOE",
+        "PLOW",
+        "RAKE",
+        "SICKLE"
+    ],
+    "SCHEME": [
+        "PLOT",
+        "PLOY",
+        "RUSE",
+        "TRICK"
+    ],
+    "ONOMATOPOEIA": [
+        "BANG",
+        "PLOP",
+        "SPLASH",
+        "THUD"
+    ],
+    "CARTOON MICE": [
+        "ITCHY",
+        "JERRY",
+        "PINKY",
+        "SPEEDY"
+    ],
+    "THINGS TO BLOW ON FOR WISHES/LUCK": [
+        "CANDLE",
+        "DANDELION",
+        "DICE",
+        "EYELASH"
+    ],
+    "TOPIC OF DISCUSSION": [
+        "POINT",
+        "ISSUE",
+        "MATTER",
+        "SUBJECT"
+    ],
+    "NAME PREFIXES": [
+        "GEN",
+        "MS",
+        "PROF",
+        "REV"
+    ],
+    "ART MEDIUMS": [
+        "CHARCOAL",
+        "INK",
+        "PAINT",
+        "PASTEL"
+    ],
+    "INDICATION OF THINGS TO COME": [
+        "MESSAGE",
+        "OMEN",
+        "SIGN",
+        "WARNING"
+    ],
+    "___ GEORGE": [
+        "BOY",
+        "BY",
+        "CURIOUS",
+        "SAINT"
+    ],
+    "BLACK-AND-WHITE ANIMALS": [
+        "ORCA",
+        "PANDA",
+        "SKUNK",
+        "ZEBRA"
+    ],
+    "SHARPNESS, AS OF AN IMAGE": [
+        "CLARITY",
+        "DEFINITION",
+        "DETAIL",
+        "RESOLUTION"
+    ],
+    "PLACES IN FRANCE": [
+        "CHAMPAGNE",
+        "DIJON",
+        "NICE",
+        "TOURS"
+    ],
+    "RAPPERS MINUS FIRST LETTER": [
+        "40",
+        "COLE",
+        "PAIN",
+        "TIP"
+    ],
+    "___ BALL": [
+        "CRYSTAL",
+        "DISCO",
+        "FOUL",
+        "GUTTER"
+    ],
+    "FOUND AROUND A FIREPLACE": [
+        "FLUE",
+        "GRATE",
+        "LOG",
+        "POKER"
+    ],
+    "PICTOGRAPH": [
+        "ICON",
+        "CHARACTER",
+        "GLYPH",
+        "SYMBOL"
+    ],
+    "“PH” WORDS THAT ALSO WORK WITH “F”": [
+        "PHAT",
+        "PHEW",
+        "PHILLY",
+        "PHISH"
+    ],
+    "COLOR HOMOPHONES": [
+        "BLEW",
+        "CHORAL",
+        "READ",
+        "ROWS"
+    ],
+    "TILT TO ONE SIDE": [
+        "CANT",
+        "LEAN",
+        "LIST",
+        "SLOPE"
+    ],
+    "WORDS IN TONGUE TWISTERS": [
+        "FUZZY",
+        "PEPPERS",
+        "SEASHELLS",
+        "WOODCHUCK"
+    ],
+    "RUBBER STAMP WORDS": [
+        "APPROVED",
+        "PAID",
+        "URGENT",
+        "VOID"
+    ],
+    "BRING INTO BEING": [
+        "COIN",
+        "CREATE",
+        "DEVISE",
+        "INVENT"
+    ],
+    "IMPOSE, AS A PENALTY": [
+        "FINE",
+        "ASSESS",
+        "CHARGE",
+        "LEVY"
+    ],
+    "PESTERS": [
+        "BUGS",
+        "BADGERS",
+        "HOUNDS",
+        "NAGS"
+    ],
+    "DO SOME MARKETING FOR": [
+        "PITCH",
+        "PLUG",
+        "PROMOTE",
+        "PUSH"
+    ],
+    "MUSCULAR": [
+        "BUILT",
+        "JACKED",
+        "RIPPED",
+        "SWOLE"
+    ],
+    "FANCY ___": [
+        "FEAST",
+        "FREE",
+        "PANTS",
+        "THAT"
+    ],
+    "MOVIES MINUS NUMBERS": [
+        "APOLLO",
+        "CANDLES",
+        "FANTASTIC",
+        "SAMURAI"
+    ],
+    "GROCERY STORE AISLES": [
+        "DAIRY",
+        "FROZEN",
+        "PRODUCE",
+        "SNACK"
+    ],
+    "BRITPOP BANDS": [
+        "BLUR",
+        "OASIS",
+        "PULP",
+        "SUEDE"
+    ],
+    "NOUN SUFFIXES": [
+        "DOM",
+        "ION",
+        "NESS",
+        "SHIP"
+    ],
+    "ILK": [
+        "TYPE",
+        "KIND",
+        "SORT",
+        "VARIETY"
+    ],
+    "VEGETABLE HOMOPHONES": [
+        "BEAT",
+        "CHARRED",
+        "LEAK",
+        "PEE"
+    ],
+    "WORDS BEGINNING WITH INSTRUMENTS": [
+        "BASSINET",
+        "CELLOPHANE",
+        "HARPOON",
+        "ORGANISM"
+    ],
+    "'80S FASHION TRENDS": [
+        "HEADBAND",
+        "MULLET",
+        "NEON",
+        "SPANDEX"
+    ]
+}
